@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"499aef7b603f7871","x":-503,"y":-355,"width":783,"height":55,"type":"text","text":"### Ley 12/2018, de 23 de noviembre, de Transporte y Movilidad Sostenible"},
+		{"id":"c0e7011df84c91fc","x":-740,"y":-240,"width":553,"height":370,"type":"text","text":"principios básicos: \na) Seguridad.\nb) Minimización del impacto ambiental.\nc) Minimización de los costes sociales.\nd) Intermodalidad.\ne) Sostenibilidad y uso racional del territorio.\nf) Valoración de costes y gestión.\ng) Prioridad de la accesibilidad universal en la asignación de recursos públicos.\nh) Coordinación entre administraciones públicas.\ni) Participación ciudadana.\nj) Incorporación de la perspectiva de género a la planificación y gestión del transporte"},
+		{"id":"4260d288216f12be","x":360,"y":-355,"width":394,"height":70,"color":"2","type":"text","text":"concejos  +30.000 habitantes deberan aprobar un plan de movilidad urbana sostenible"}
+	],
+	"edges":[]
+}

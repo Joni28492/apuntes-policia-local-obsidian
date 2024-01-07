@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"82d7cd5abc6aa0f9","type":"text","text":"## Real Decreto Legislativo 8/2004, de 29 de octubre, por el que se aprueba el texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor.","x":-440,"y":-480,"width":929,"height":112},
+		{"id":"53e2b79aa005d683","type":"text","text":"## contenido:\n - Las de identificación del propietario del vehículo, del conductor habitual y del tomador del seguro\n-  Las de identificación del vehículo\n - Las garantías solicitadas u ofrecidas,\n - La identificación clara y destacada de que se trata de una proposición o de una solicitud de seguro.\n- El período de cobertura mínimo,\n","x":-647,"y":-115,"width":467,"height":275},
+		{"id":"26886549c6aeebf7","type":"text","text":" El Consorcio de Compensación de Seguros aceptará la contratación del riesgo cuando no hayan\nsido aceptadas o hayan sido rechazadas dos solicitudes de seguro obligatorio por dos entidades\naseguradoras, salvo que el riesgo fuera aceptado por otra u otras aseguradoras a petición del Consorcio de\nCompensación de Seguros","x":-1136,"y":-458,"width":489,"height":218},
+		{"id":"f71e8aea2c7495f7","type":"text","text":" El conductor de vehículos a motor es responsable, en virtud del riesgo creado por la conducción\nde estos, de los daños causados a las personas o en los bienes con motivo de la circulación.\nEn el caso de daños a las personas, de esta responsabilidad sólo quedará exonerado cuando\npruebe que los daños fueron debidos a la culpa exclusiva del perjudicado o a fuerza mayor extraña a la\nconducción o al funcionamiento del vehículo; no se considerarán casos de fuerza mayor los defectos del\nvehículo ni la rotura o fallo de alguna de sus piezas o mecanismos. \nEn el caso de daños en los bienes el conductor responderá frente a terceros cuando resulte civilmente responsable  ","x":-41,"y":-166,"width":721,"height":286}
+	],
+	"edges":[]
+}

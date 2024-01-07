@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"80c2aca1636bed6c","x":-482,"y":-224,"width":602,"height":464,"type":"text","text":"Tipos Inspeciones tecnicas:\n- periodicas\n- de reformas\n- previas a matriculacion\n- requeridas a:\n\t- titular\n\t- arrendatario\n\t- o por cualquiera de los organismos\n- voluntarias\n- accidentes con daños importantes\n- en carretera\n- previas - transporte escolar y de menores\n- vehiculos historicos\n- transporte de productos alimentarios a temperatura regulada o mercancias peligrosas"},
+		{"id":"26da186c1dc8a8e8","x":-331,"y":392,"width":351,"height":248,"type":"text","text":"- accidente u otra causa\n- componentes y sistemas de seguridad y de proteccion del medio ambiente que hayan sido  alterados o  modificados\n- cualquiera de los organismos que tenga sospecha\n- por cambio de uso o servicio\n"},
+		{"id":"6b1f97d3e006e708","x":-734,"y":467,"width":314,"height":133,"type":"text","text":"- recorrido no superior a 30 km en sentido de la marcha y sin subida\n- sentido opuesto sin limitacion"},
+		{"id":"66e1883161d3bbd5","type":"text","text":"Defectos Graves\n- pueden poner en riesgo a otros usuarios\n- impacto sobre el medio ambiente","x":260,"y":281,"width":250,"height":199,"color":"3"},
+		{"id":"47be7a6723d0e487","type":"text","text":"Defectos Muy Graves\n\n- riesgo directo e inmediato\n- impacto medio ambiente","x":860,"y":293,"width":250,"height":199,"color":"1"},
+		{"id":"6435afcb1c9b8659","x":510,"y":100,"width":375,"height":140,"color":"4","type":"text","text":"Defectos Leves\n- no tiene efectos significativos en la seguridad vial o el medio ambiente "},
+		{"id":"713e1cb55af44620","x":262,"y":569,"width":250,"height":60,"color":"3","type":"text","text":"desfavorable\n"},
+		{"id":"0a3b2cdff4bf0574","x":849,"y":590,"width":250,"height":60,"color":"1","type":"text","text":"negativo"},
+		{"id":"b930e1a8aaf1aca9","x":537,"y":360,"width":250,"height":60,"color":"2","type":"text","text":"el informe se conserva durante 5 años"},
+		{"id":"f08e055cc4e50e57","x":974,"y":110,"width":250,"height":60,"color":"4","type":"text","text":"favorable\n"},
+		{"id":"eb0a857f40b991a8","x":1340,"y":71,"width":250,"height":138,"color":"4","type":"text","text":"- plazo maximo 2 meses para subsanar\n- sin nueva inspeccion\n"},
+		{"id":"21f236cc12f95256","x":262,"y":700,"width":250,"height":160,"color":"3","type":"text","text":"- plazo no superior a 2 meses\n- solo traslado a taller o itv"},
+		{"id":"02f05bfbbfd47f8c","x":852,"y":724,"width":250,"height":136,"color":"1","type":"text","text":"- plazo max 2 meses\n- transporte por medios ajenos al vehiculo"},
+		{"id":"59484958ca3c8a96","x":-460,"y":832,"width":250,"height":60,"type":"text","text":"Tabla ITVs"}
+	],
+	"edges":[
+		{"id":"24aee776f624d3ea","fromNode":"80c2aca1636bed6c","fromSide":"bottom","toNode":"26da186c1dc8a8e8","toSide":"top","label":"someterse antes de la fecha"},
+		{"id":"6c5d4defc2815ec0","fromNode":"6435afcb1c9b8659","fromSide":"right","toNode":"f08e055cc4e50e57","toSide":"left"},
+		{"id":"4564b0b80fd8355d","fromNode":"66e1883161d3bbd5","fromSide":"bottom","toNode":"713e1cb55af44620","toSide":"top"},
+		{"id":"1c1e78995b395a1c","fromNode":"47be7a6723d0e487","fromSide":"bottom","toNode":"0a3b2cdff4bf0574","toSide":"top"},
+		{"id":"17567e262aef8d1d","fromNode":"f08e055cc4e50e57","fromSide":"right","toNode":"eb0a857f40b991a8","toSide":"left"},
+		{"id":"a766878a869e8436","fromNode":"713e1cb55af44620","fromSide":"bottom","toNode":"21f236cc12f95256","toSide":"top"},
+		{"id":"ab43feea0183494d","fromNode":"0a3b2cdff4bf0574","fromSide":"bottom","toNode":"02f05bfbbfd47f8c","toSide":"top"}
+	]
+}

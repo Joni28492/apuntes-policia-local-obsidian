@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"4e17a597e174bd4f","type":"group","x":-755,"y":-180,"width":1011,"height":750,"label":"Publicos"},
+		{"id":"48c04f75a63ddb77","type":"group","x":560,"y":0,"width":683,"height":572,"label":"Acompañante"},
+		{"id":"226c91da6197e887","type":"text","text":"### Transporte de menores - Real Decreto 443/2001, de 27 de abri","x":-558,"y":-391,"width":718,"height":60},
+		{"id":"78690a241e80546a","type":"text","text":"Las condiciones de seguridad previstas en el RD se aplicaran cuando","x":-300,"y":-260,"width":250,"height":60},
+		{"id":"2b0f6698593d91b3","type":"text","text":"regulares","x":-517,"y":26,"width":250,"height":60},
+		{"id":"1cc4bc7a7bff6b3a","type":"text","text":"de uso especial de ecolares por carretera","x":-718,"y":187,"width":250,"height":119,"color":"5"},
+		{"id":"c85211327f69b21e","type":"text","text":" de viajeros ","x":-300,"y":196,"width":250,"height":60,"color":"4"},
+		{"id":"0407be771ee92e14","type":"text","text":"- 3/4 partes o mas\n- menores de 16","x":-14,"y":412,"width":250,"height":60,"color":"3"},
+		{"id":"0f1cd619b1231c3c","type":"text","text":" discreccionales de viajeros en autobus","x":-20,"y":217,"width":250,"height":60,"color":"3"},
+		{"id":"ff7d2eeafa7f4887","type":"text","text":"- 1/3 parte o mas de los alumnos\n*  menores de 16\n* en el momento que comenzo el curso escolar","x":-735,"y":363,"width":285,"height":187,"color":"5"},
+		{"id":"9954574603110322","type":"text","text":"- 1/2 o mas de las plazas \n- reservadas por menores de 16","x":-300,"y":373,"width":250,"height":139,"color":"4"},
+		{"id":"0af747cf1e73e68f","type":"text","text":"publicos\n","x":-300,"y":-160,"width":250,"height":60},
+		{"id":"ecd838dae1de79e6","type":"text","text":"privados - complementarios de viajeros","x":287,"y":96,"width":250,"height":130,"color":"2"},
+		{"id":"15b0e1efa4e43b67","type":"text","text":"1/3 o mas sean menores de 16","x":301,"y":344,"width":250,"height":60,"color":"2"},
+		{"id":"d76ef5fe7f67dd2f","type":"text","text":"antiguedad de los vehiculos\n\n","x":320,"y":-271,"width":250,"height":80,"color":"6"},
+		{"id":"75a9a0a737d4e654","type":"text","text":"10 años\n","x":740,"y":-301,"width":250,"height":60,"color":"6"},
+		{"id":"968a55d15d67621c","type":"text","text":"## Señal V-10","x":195,"y":-600,"width":250,"height":60,"color":"3"},
+		{"id":"a3377688c9469ade","type":"text","text":"- iluminada el tiempo que duren las paradas\n- y 20 segundos max despues de la puesta en marcha","x":590,"y":-673,"width":250,"height":213,"color":"3"},
+		{"id":"b8a6df8a7cad3adb","type":"text","text":"Presencia de acompañante ","x":580,"y":60,"width":250,"height":80,"color":"5"},
+		{"id":"1644b14c803ec516","type":"text","text":"- no rebase 16 años desde primera matriculacion\n- se venga dedicando con anterioridad a esta tarea\n- fecha de inicio de curso escolar 1 de septiembre","x":1340,"y":-645,"width":300,"height":211,"color":"2"},
+		{"id":"10042840e17aa65e","type":"text","text":"- persona mayor de edad\n- distinta del conductor\n- acreditada por la entidad organizadora del servicio\n- o pactado con el transportista etc...\n- conozca los mecanismos de seguridad del vehiculo\n","x":973,"y":20,"width":250,"height":380,"color":"5"},
+		{"id":"1e99d7e65126daeb","type":"text","text":"- alumnos centros de educacion especial\n- parrafo c), d) art 1\n- lugar distinto al domicilio habitual o centro docente\n- almenos 50% de los pasajeros menores de 12","x":580,"y":332,"width":353,"height":220,"color":"5"}
+	],
+	"edges":[
+		{"id":"2b4dfbb63a40acaa","fromNode":"1cc4bc7a7bff6b3a","fromSide":"bottom","toNode":"ff7d2eeafa7f4887","toSide":"top"},
+		{"id":"807b80e37bd82c70","fromNode":"c85211327f69b21e","fromSide":"bottom","toNode":"9954574603110322","toSide":"top"},
+		{"id":"092f7e159637c36d","fromNode":"0f1cd619b1231c3c","fromSide":"bottom","toNode":"0407be771ee92e14","toSide":"top"},
+		{"id":"64d2e9c754ac3f07","fromNode":"78690a241e80546a","fromSide":"bottom","toNode":"0af747cf1e73e68f","toSide":"top"},
+		{"id":"41b2710f3d5db0db","fromNode":"0af747cf1e73e68f","fromSide":"bottom","toNode":"0f1cd619b1231c3c","toSide":"top"},
+		{"id":"bf1b81c2e8ce28eb","fromNode":"0af747cf1e73e68f","fromSide":"bottom","toNode":"2b0f6698593d91b3","toSide":"top"},
+		{"id":"d3e6bd4049984d66","fromNode":"2b0f6698593d91b3","fromSide":"bottom","toNode":"c85211327f69b21e","toSide":"top"},
+		{"id":"8a41fd32e3ea48bb","fromNode":"2b0f6698593d91b3","fromSide":"bottom","toNode":"1cc4bc7a7bff6b3a","toSide":"top"},
+		{"id":"f959e26a090d1916","fromNode":"0af747cf1e73e68f","fromSide":"bottom","toNode":"ecd838dae1de79e6","toSide":"top"},
+		{"id":"7f7ea260e07222f0","fromNode":"ecd838dae1de79e6","fromSide":"bottom","toNode":"15b0e1efa4e43b67","toSide":"top"},
+		{"id":"8375328e3e176170","fromNode":"d76ef5fe7f67dd2f","fromSide":"right","toNode":"75a9a0a737d4e654","toSide":"left"},
+		{"id":"55ad8dcf6ad57a7b","fromNode":"75a9a0a737d4e654","fromSide":"right","toNode":"1644b14c803ec516","toSide":"left","label":"se adminitira superior cuando\n\n(16 años)"},
+		{"id":"311694ddb2fcefd8","fromNode":"968a55d15d67621c","fromSide":"right","toNode":"a3377688c9469ade","toSide":"left"},
+		{"id":"7bde0521e2b054d9","fromNode":"b8a6df8a7cad3adb","fromSide":"right","toNode":"10042840e17aa65e","toSide":"left","label":"requiere"},
+		{"id":"168f21fa669ee3e9","fromNode":"b8a6df8a7cad3adb","fromSide":"bottom","toNode":"1e99d7e65126daeb","toSide":"top","label":"obligatorio"}
+	]
+}

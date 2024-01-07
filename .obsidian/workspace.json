@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "a206ac5babdcb734",
+    "type": "split",
+    "children": [
+      {
+        "id": "826318d18f6a70da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fd04354278be07e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Definiciones trafico - Anexo 1.canvas",
+                "viewState": {
+                  "x": 1009.405306147579,
+                  "y": 360.91485700863404,
+                  "zoom": -0.11316225250412637
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8e84260aa1f71b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "04fccc22374eafa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e088ce29afc96e31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae2c52c5e21d7b4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42bf991a7f827026",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "43db7e5b829785cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3781aa5244981cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8177ee505d08f2bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Definiciones trafico - Anexo 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a693103e3d25b85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Definiciones trafico - Anexo 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2b5b968f9363662",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "463793dc4c571fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Definiciones trafico - Anexo 1.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5fd04354278be07e",
+  "lastOpenFiles": [
+    "Drogas.canvas",
+    "Infracciones Trafico.canvas",
+    "Transporte/Mercnacias peligrosas.canvas",
+    "Transporte/Transporte y movilidad sostenible.canvas",
+    "Transporte/Transporte Mercancias Perecederas.canvas",
+    "Transporte/Transporte menores.canvas",
+    "ITV.canvas",
+    "Ley bases 7-85.canvas",
+    "Preguntas merino.canvas",
+    "SOA - Seguro Obligatorio.canvas",
+    "constitucion.canvas",
+    "2024-01-02.md",
+    "Definiciones Trafico",
+    "Constitucion",
+    "Codigo penal",
+    "Fuerzas y Cuerpos de seguridad 2-86",
+    "Transporte"
+  ]
+}

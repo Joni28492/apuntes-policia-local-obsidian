@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"18dd82236d579316","type":"text","text":"Transportes por carretera\n","x":-1200,"y":-417,"width":250,"height":60},
+		{"id":"83cd2a5749026f72","type":"text","text":"ordinarios\n","x":-2060,"y":-495,"width":250,"height":60,"color":"6"},
+		{"id":"c9dcb09d144de3f3","type":"text","text":"- mercancias peligrosas\n- temperatura dirigida\n- transporte personas enfermas o accidentadas\n- funerario","x":-2420,"y":-320,"width":250,"height":220,"color":"6"},
+		{"id":"193446ea50e40ab5","type":"text","text":"segun naturaleza","x":-1200,"y":-620,"width":250,"height":60,"color":"4"},
+		{"id":"13a3098cd090f38f","type":"text","text":"publicos\n","x":-1260,"y":-860,"width":140,"height":60,"color":"4"},
+		{"id":"2746346fb037f390","type":"text","text":"privados","x":-950,"y":-860,"width":140,"height":60,"color":"4"},
+		{"id":"f6df92f4e243ad56","type":"text","text":"Son transportes públicos aquellos que se llevan a cabo por cuenta ajena mediante retribución\neconómica","x":-1399,"y":-1140,"width":308,"height":127,"color":"4"},
+		{"id":"451db57a47f5d7a5","type":"text","text":" Son transportes privados aquellos que se llevan a cabo por cuenta propia, bien sea para satisfacer\nnecesidades particulares, bien como complemento de otras actividades principales realizadas por empresas\no establecimientos del mismo sujeto, y directamente vinculados al adecuado desarrollo de dichas actividades","x":-1020,"y":-1201,"width":340,"height":250,"color":"4"},
+		{"id":"e9b4470715f08940","type":"text","text":"De **mercancías**, cuando estén dedicados a realizar desplazamientos de mercancías, en vehículos\nconstruidos y acondicionados para tal fin.","x":-495,"y":-328,"width":355,"height":159,"color":"5"},
+		{"id":"97ef6fcc94b9f0b2","type":"text","text":"De **viajeros**, cuando estén dedicados a realizar los desplazamientos de las personas y sus\nequipajes en vehículos construidos y acondicionados para tal fin.","x":-492,"y":-528,"width":352,"height":170,"color":"5"},
+		{"id":"59c0dc858d25ced1","type":"text","text":"razon de su objeto","x":-840,"y":-418,"width":250,"height":60,"color":"5"},
+		{"id":"d85036832ddb794c","type":"text","text":"publicos de viajeros\n\n","x":-20,"y":-469,"width":250,"height":60,"color":"5"},
+		{"id":"43bde98b9af25017","type":"text","text":"regulares\n- horario\n- calendario\n- itinerario \n- prestablecidos ","x":400,"y":-687,"width":250,"height":195,"color":"5"},
+		{"id":"535dde807556d94c","type":"text","text":"discreccionales\n- Mercancias por carretera\n- sin nada preestablecido","x":420,"y":-469,"width":250,"height":177,"color":"5"},
+		{"id":"7111957ab3ff72e2","type":"text","text":"Por razon de especialidad","x":-1600,"y":-418,"width":250,"height":60,"color":"6"},
+		{"id":"d7a66ed976918557","type":"text","text":"especiales\n- peligrosidad\n- urgencia\n- incompatibilidad con cualquier otro tipo de transporte\n- repercusion social\n- u otras causas similares estan sometidos a normas administrativas especiales\n","x":-2060,"y":-387,"width":250,"height":384,"color":"6"},
+		{"id":"db5b313299ab57c6","type":"text","text":"ambito\n","x":-1200,"y":-229,"width":250,"height":60,"color":"3"},
+		{"id":"3dd36612374109ab","type":"text","text":"internacionales\n- parcialmente por el extranjero","x":-1370,"y":-3,"width":250,"height":140,"color":"3"},
+		{"id":"fde62b4792df58d7","type":"text","text":"interiores\n- dentro del territorio del Estado Español","x":-1030,"y":-3,"width":250,"height":140,"color":"3"}
+	],
+	"edges":[
+		{"id":"5423167e00fd35af","fromNode":"18dd82236d579316","fromSide":"right","toNode":"59c0dc858d25ced1","toSide":"left"},
+		{"id":"0dfe502ffae0ad15","fromNode":"59c0dc858d25ced1","fromSide":"right","toNode":"97ef6fcc94b9f0b2","toSide":"left"},
+		{"id":"482e00df9faef6a1","fromNode":"59c0dc858d25ced1","fromSide":"right","toNode":"e9b4470715f08940","toSide":"left"},
+		{"id":"2bf136b70244dcff","fromNode":"97ef6fcc94b9f0b2","fromSide":"right","toNode":"d85036832ddb794c","toSide":"left"},
+		{"id":"8357967ecff9d178","fromNode":"d85036832ddb794c","fromSide":"right","toNode":"43bde98b9af25017","toSide":"left"},
+		{"id":"2c69bb116392ce4f","fromNode":"d85036832ddb794c","fromSide":"right","toNode":"535dde807556d94c","toSide":"left"},
+		{"id":"598d224c0d4fec5f","fromNode":"18dd82236d579316","fromSide":"left","toNode":"7111957ab3ff72e2","toSide":"right"},
+		{"id":"4db5954098132c2e","fromNode":"7111957ab3ff72e2","fromSide":"left","toNode":"83cd2a5749026f72","toSide":"right"},
+		{"id":"b5bf91d3af63e350","fromNode":"7111957ab3ff72e2","fromSide":"left","toNode":"d7a66ed976918557","toSide":"right"},
+		{"id":"abddffea736f6ba4","fromNode":"18dd82236d579316","fromSide":"top","toNode":"193446ea50e40ab5","toSide":"bottom"},
+		{"id":"55ed69a418532475","fromNode":"18dd82236d579316","fromSide":"bottom","toNode":"db5b313299ab57c6","toSide":"top"},
+		{"id":"3b75c8c6eb227f17","fromNode":"d7a66ed976918557","fromSide":"left","toNode":"c9dcb09d144de3f3","toSide":"right"},
+		{"id":"2e6c6b3687511a4d","fromNode":"193446ea50e40ab5","fromSide":"top","toNode":"2746346fb037f390","toSide":"bottom"},
+		{"id":"79ee6f0281f87476","fromNode":"193446ea50e40ab5","fromSide":"top","toNode":"13a3098cd090f38f","toSide":"bottom"},
+		{"id":"e6462e40daca5fbf","fromNode":"13a3098cd090f38f","fromSide":"top","toNode":"f6df92f4e243ad56","toSide":"bottom"},
+		{"id":"bdb12dd2f8aadb42","fromNode":"2746346fb037f390","fromSide":"top","toNode":"451db57a47f5d7a5","toSide":"bottom"},
+		{"id":"b9d08e45b75efa72","fromNode":"db5b313299ab57c6","fromSide":"bottom","toNode":"3dd36612374109ab","toSide":"top"},
+		{"id":"f578edeff2f78b18","fromNode":"db5b313299ab57c6","fromSide":"bottom","toNode":"fde62b4792df58d7","toSide":"top"}
+	]
+}

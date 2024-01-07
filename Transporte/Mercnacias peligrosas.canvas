@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"ec118c3c6c1dd04f","x":-29,"y":-271,"width":429,"height":211,"type":"text","text":"- permiso B almenos 1 año\n- curso aprovechamiento mercancias peligrosas\n- apto jefatura prov. trafico\n- no estar privado por resolucion judicial\n- reunir aptitudes psicofisicas\n- residencia normal en españa"},
+		{"id":"6c0a304c7e9cfad7","x":-580,"y":-301,"width":250,"height":60,"type":"text","text":"Autorizacion administrativa especial\n"},
+		{"id":"9084b2ed074876c3","x":-354,"y":-468,"width":250,"height":60,"type":"text","text":"Acuerdo ADR firmado en  Ginebra"},
+		{"id":"9c66503079649102","x":-1277,"y":-165,"width":250,"height":60,"type":"text","text":"vigencia 5 años\n"},
+		{"id":"8cf804084d962bcf","x":-1440,"y":15,"width":250,"height":50,"type":"text","text":""},
+		{"id":"cb5d91590304f69b","x":-1080,"y":15,"width":250,"height":60,"type":"text","text":""},
+		{"id":"f960571c21fafb11","x":-604,"y":-40,"width":250,"height":60,"type":"text","text":"documentacion\n"},
+		{"id":"99e3e1585d291bb9","x":-729,"y":200,"width":250,"height":380,"type":"text","text":"documentacion de la tripulacion:\n- certificado de formacion del conductor\n- permiso de conduccion del conductor\n- documento de indentificacion grafica con foto por cada miembro"},
+		{"id":"016010467cfcf8ae","x":-175,"y":200,"width":335,"height":380,"type":"text","text":"vehiculo\n- Permiso de circulación\n- Tarjeta de transporte Es el documento que autoriza al vehículo el poder realizar el transporte de\n  mercancías.\n- Tarjeta (ITV)\n- Seguro obligatorio\n- Certificado de aprobación (cuando proceda)\n-  Certificado de limpieza (cuando proceda)"},
+		{"id":"9d711f1a2db8a525","x":-460,"y":200,"width":250,"height":160,"type":"text","text":"transportista :\n- modelo oficial de instrucciones escritas segun el ADR\n"},
+		{"id":"6889689ce689a991","x":-1035,"y":208,"width":250,"height":332,"type":"text","text":"servicio:\n- carta de porte \n- certificado arrumazon (cuando proceda)\n- lista de comprobaciones en 2 partes\n- instrucciones de entrega\n"},
+		{"id":"c2db8a53b9139d84","x":-2137,"y":61,"width":250,"height":60,"type":"text","text":"equipamiento\n"}
+	],
+	"edges":[
+		{"id":"eb2f227b24ba4676","fromNode":"6c0a304c7e9cfad7","fromSide":"right","toNode":"ec118c3c6c1dd04f","toSide":"left"},
+		{"id":"03b0dc339b787736","fromNode":"9c66503079649102","fromSide":"bottom","toNode":"cb5d91590304f69b","toSide":"top","label":"prorrogar"},
+		{"id":"64bdd296419fe861","fromNode":"9c66503079649102","fromSide":"bottom","toNode":"8cf804084d962bcf","toSide":"top","label":"ampliacion\n\n"},
+		{"id":"eec8ad3e7e66eb5d","fromNode":"6c0a304c7e9cfad7","fromSide":"top","toNode":"9084b2ed074876c3","toSide":"bottom"},
+		{"id":"11093246edc5c7b3","fromNode":"6c0a304c7e9cfad7","fromSide":"left","toNode":"9c66503079649102","toSide":"top"},
+		{"id":"691033f86e655221","fromNode":"f960571c21fafb11","fromSide":"bottom","toNode":"99e3e1585d291bb9","toSide":"top"},
+		{"id":"a7105cd3699fb034","fromNode":"6c0a304c7e9cfad7","fromSide":"bottom","toNode":"f960571c21fafb11","toSide":"top"},
+		{"id":"44a2475f2e05bf90","fromNode":"f960571c21fafb11","fromSide":"bottom","toNode":"9d711f1a2db8a525","toSide":"top"},
+		{"id":"6d4463db889b9208","fromNode":"f960571c21fafb11","fromSide":"bottom","toNode":"016010467cfcf8ae","toSide":"top"},
+		{"id":"82b6fdaae084ee6f","fromNode":"f960571c21fafb11","fromSide":"bottom","toNode":"6889689ce689a991","toSide":"top"}
+	]
+}
