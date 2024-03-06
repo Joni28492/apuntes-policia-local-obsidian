@@ -10,6 +10,8 @@
 		{"id":"b5dfe0eaa500ea01","type":"text","text":"### concejo abierto\n","x":-1820,"y":-380,"width":250,"height":60,"color":"#3f210e"},
 		{"id":"051d3b2ee17ef9d4","type":"text","text":"- Mayoria de 2/3 de los vecinos","x":-1973,"y":-190,"width":250,"height":60,"color":"#3f210e"},
 		{"id":"30ee2de2fc151497","type":"text","text":"- comarcas\n- areas metropolitanas\n- mancomunidades de municipios","x":-704,"y":220,"width":270,"height":149,"color":"5"},
+		{"id":"c8dbb69a4e055023","type":"text","text":"## Junta de gobierno local","x":-1585,"y":-296,"width":357,"height":61},
+		{"id":"171a865decd264fc","type":"text","text":"# En todos los municipios:\n-  Alcalde\n- Tenientes de alcalde \n- pleno\n#### junta de gobierno local\n- superior a 5000 hab\n- o lo disponga su reglamento organico o el pleno del ayuntamiento","x":-1466,"y":-743,"width":361,"height":393,"color":"6"},
 		{"id":"2c7ce9d67ada919c","type":"text","text":"- Eficacia\n- descentralizacion\n- desconcentracion\n- coordinacion\n","x":-380,"y":-20,"width":250,"height":160,"color":"2"},
 		{"id":"a674d4285e3c48a6","type":"text","text":"### Ley 7/85 de 2 de Abril LBRL","x":-442,"y":-360,"width":374,"height":60},
 		{"id":"3aa662a30e566810","type":"text","text":"## Mocion de censura\n","x":-7,"y":-339,"width":320,"height":69,"color":"3"},
@@ -23,9 +25,7 @@
 		{"id":"d3b55b4a7636e75c","type":"text","text":"- 1/3 del numero legal de miembros\n- nunca inferior a 3","x":-1060,"y":321,"width":250,"height":119,"color":"2"},
 		{"id":"ec150e9036efea3e","type":"text","text":"- +20.000 hab. minimo cada mes\n- 5001 a 20.000 cada 2 meses\n- -5000 cada 3 meses","x":-1820,"y":422,"width":400,"height":119,"color":"2"},
 		{"id":"c2a7bdad1b992e94","type":"text","text":"convocar con 2 dias habiles de antelacion\n","x":-1745,"y":621,"width":250,"height":60,"color":"2"},
-		{"id":"2fa80e7e65503a21","type":"text","text":"- decida el presidente o 1/4 parte del numero legal de miembros","x":-1286,"y":531,"width":250,"height":120,"color":"2"},
-		{"id":"c8dbb69a4e055023","type":"text","text":"## Junta de gobierno local","x":-1585,"y":-296,"width":357,"height":61},
-		{"id":"171a865decd264fc","type":"text","text":"# En todos los municipios:\n-  Alcalde\n- Tenientes de alcalde \n- pleno\n#### junta de gobierno local\n- superior a 5000 hab\n- o lo disponga su reglamento organico o el pleno del ayuntamiento","x":-1466,"y":-743,"width":361,"height":393,"color":"6"}
+		{"id":"2fa80e7e65503a21","type":"text","text":"- decida el presidente o 1/4 parte del numero legal de miembros","x":-1286,"y":531,"width":250,"height":120,"color":"2"}
 	],
 	"edges":[
 		{"id":"050653f5663fc253","fromNode":"ce472a1c1b83ad64","fromSide":"bottom","toNode":"30ee2de2fc151497","toSide":"top","label":"gozaran asi mismo\nde la condicion de \nentidades locales"},

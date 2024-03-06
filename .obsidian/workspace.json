@@ -4,25 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "826318d18f6a70da",
+        "id": "8f90d2c5518ca9a7",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd04354278be07e",
+            "id": "47a6db8be3627569",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Definiciones trafico - Anexo 1.canvas",
-                "viewState": {
-                  "x": 1009.405306147579,
-                  "y": 360.91485700863404,
-                  "zoom": -0.11316225250412637
-                }
+                "file": "test/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55aad6fbdb3c42e7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Penas_Graves.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Protecion Civil\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,14 +96,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definiciones trafico - Anexo 1.canvas",
+                "file": "Excalidraw/Penas_Graves.excalidraw.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -105,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definiciones trafico - Anexo 1.canvas",
+                "file": "Excalidraw/Penas_Graves.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,11 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definiciones trafico - Anexo 1.canvas"
+                "file": "Excalidraw/Penas_Graves.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,27 +155,66 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "marp:Marp: Open Preview": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "5fd04354278be07e",
+  "active": "55aad6fbdb3c42e7",
   "lastOpenFiles": [
-    "Drogas.canvas",
+    "Armas.canvas",
+    "Excalidraw/principios_basicos_actuacion.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-05 14.54.38.excalidraw.md",
+    "test/test.md",
+    "ITV.canvas",
+    "Excalidraw/Penas_Graves.excalidraw.md",
+    "constitucion.canvas",
+    "Excalidraw/Drawing 2024-03-05 09.35.39.excalidraw.md",
+    "Armas/Armas fucnionarios.md",
+    "Armas/Armas Prohibidas.md",
+    "Armas",
+    "Codigo penal/Concepto de delito.md",
+    "Codigo penal/src/Pasted image 20240304171833.png",
+    "Codigo penal/src",
+    "Normativa autonomica/Alcohol y Drogas/Alcohol y drogas.md",
+    "Seguridad ciudadana/L.O. Seguridad ciudadana.md",
+    "Pruebas.md",
+    "Preguntas merino.canvas",
+    "Excalidraw/Drawing 2024-03-01 21.42.32.excalidraw.md",
     "Infracciones Trafico.canvas",
-    "Transporte/Mercnacias peligrosas.canvas",
+    "Fuerzas y Cuerpos de seguridad 2-86/2-86.md",
+    "Excalidraw/Drawing 2024-03-01 17.35.17.excalidraw.md",
+    "src/Pasted image 20240229174939.png",
+    "src/Recording 20240228203652.webm",
+    "Excalidraw/Drawing 2024-02-29 17.52.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-29 17.51.53.excalidraw.md",
+    "pruebas.md",
+    "Ley bases 7-85.canvas",
+    "Excalidraw",
+    "src/Pasted image 20240229175010.png",
+    "src/Pasted image 20240229174954.png",
+    "Coordinacion policias locales.canvas",
+    "Notas audio pruebas.md",
+    "src",
+    "test",
     "Transporte/Transporte y movilidad sostenible.canvas",
+    "Normativa autonomica/Lepar/Decretos",
+    "Normativa autonomica",
+    "Normativa autonomica/Animales",
+    "Normativa autonomica/Alcohol y Drogas",
     "Transporte/Transporte Mercancias Perecederas.canvas",
     "Transporte/Transporte menores.canvas",
-    "ITV.canvas",
-    "Ley bases 7-85.canvas",
-    "Preguntas merino.canvas",
-    "SOA - Seguro Obligatorio.canvas",
-    "constitucion.canvas",
-    "2024-01-02.md",
-    "Definiciones Trafico",
-    "Constitucion",
-    "Codigo penal",
-    "Fuerzas y Cuerpos de seguridad 2-86",
-    "Transporte"
+    "Ejemplo pregunta.md",
+    "Constitucion/Titulo VIII.md",
+    "Constitucion/src/Seehund11cele4_edit.jpg",
+    "Constitucion/Constitución Española.md",
+    "Constitucion/Titulo X.md",
+    "Constitucion/Titulo IX.md",
+    "Constitucion/Titulo VII.md",
+    "Constitucion/Titulo VI.md",
+    "src/Screenshot_4.png"
   ]
 }

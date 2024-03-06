@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "theme": "obsidian"
+  "accentColor": "#31e3ce",
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "slides"
+  ]
 }
