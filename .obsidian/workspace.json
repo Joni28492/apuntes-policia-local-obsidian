@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8f90d2c5518ca9a7",
+        "id": "11b22ba3772af117",
         "type": "tabs",
         "children": [
           {
-            "id": "47a6db8be3627569",
+            "id": "7a0f74904747ba8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55aad6fbdb3c42e7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Penas_Graves.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Penas_Graves.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Penas_Graves.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Penas_Graves.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,58 +144,58 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "55aad6fbdb3c42e7",
+  "active": "7a0f74904747ba8b",
   "lastOpenFiles": [
-    "Armas.canvas",
-    "Excalidraw/principios_basicos_actuacion.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-05 14.54.38.excalidraw.md",
-    "test/test.md",
-    "ITV.canvas",
-    "Excalidraw/Penas_Graves.excalidraw.md",
     "constitucion.canvas",
-    "Excalidraw/Drawing 2024-03-05 09.35.39.excalidraw.md",
-    "Armas/Armas fucnionarios.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Ley Organica de Cuerpos y fuerzas de seguridad 2-86.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/Titulo V - de las Policias Locales.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV/Titulo IV - de la colaboracion y cordinacion entre el estado y las CCAA.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo III/Titulo III - de las policias de las CCAA.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo II/Titulo II - De las Fuerzas y cuerpos de seguridad del Estado.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Titulo I - De los Cuerpos y fuerzas de seguridad.md",
     "Armas/Armas Prohibidas.md",
-    "Armas",
-    "Codigo penal/Concepto de delito.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo III",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo II",
+    "Untitled.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I",
+    "SOA - Seguro Obligatorio.canvas",
+    "Constitucion/Constitución Española.md",
+    "Armas/Armas.md",
+    "Armas/Categorias Armas.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_8.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_1.md",
+    "Constitucion/Titulo preliminar/Titulo preliminar.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_2.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_9.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_7.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_6.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_5.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_4.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_3.md",
+    "Constitucion/Titulo preliminar/Preliminar_art_9.txt",
+    "Constitucion/Titulo preliminar/Preliminar_art_8.txt",
+    "Constitucion/Titulo preliminar/Preliminar_art_7.txt",
+    "Constitucion/Titulo preliminar/Preliminar_art_6.txt",
+    "Constitucion/Titulo preliminar/Preliminar_art_5.txt",
+    "Constitucion/Titulo preliminar/Preliminar_Articulo_1.md",
+    "Constitucion/Titulo preliminar/Preliminar_Articulo_9.md",
+    "Constitucion/Titulo preliminar/hola.md",
+    "Constitucion/Titulo VIII/Titulo VIII.md",
+    "Armas.canvas",
+    "ITV.canvas",
     "Codigo penal/src/Pasted image 20240304171833.png",
-    "Codigo penal/src",
-    "Normativa autonomica/Alcohol y Drogas/Alcohol y drogas.md",
-    "Seguridad ciudadana/L.O. Seguridad ciudadana.md",
-    "Pruebas.md",
     "Preguntas merino.canvas",
-    "Excalidraw/Drawing 2024-03-01 21.42.32.excalidraw.md",
     "Infracciones Trafico.canvas",
-    "Fuerzas y Cuerpos de seguridad 2-86/2-86.md",
-    "Excalidraw/Drawing 2024-03-01 17.35.17.excalidraw.md",
     "src/Pasted image 20240229174939.png",
-    "src/Recording 20240228203652.webm",
-    "Excalidraw/Drawing 2024-02-29 17.52.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-29 17.51.53.excalidraw.md",
-    "pruebas.md",
     "Ley bases 7-85.canvas",
-    "Excalidraw",
     "src/Pasted image 20240229175010.png",
     "src/Pasted image 20240229174954.png",
     "Coordinacion policias locales.canvas",
-    "Notas audio pruebas.md",
-    "src",
-    "test",
     "Transporte/Transporte y movilidad sostenible.canvas",
-    "Normativa autonomica/Lepar/Decretos",
-    "Normativa autonomica",
-    "Normativa autonomica/Animales",
-    "Normativa autonomica/Alcohol y Drogas",
     "Transporte/Transporte Mercancias Perecederas.canvas",
-    "Transporte/Transporte menores.canvas",
-    "Ejemplo pregunta.md",
-    "Constitucion/Titulo VIII.md",
     "Constitucion/src/Seehund11cele4_edit.jpg",
-    "Constitucion/Constitución Española.md",
-    "Constitucion/Titulo X.md",
-    "Constitucion/Titulo IX.md",
-    "Constitucion/Titulo VII.md",
-    "Constitucion/Titulo VI.md",
     "src/Screenshot_4.png"
   ]
 }
