@@ -1,0 +1,7 @@
+- [[Capitulo 1º - de los Españoles y extranjeros]]
+- [[Capitulo 2º - derechos y libertades]]
+	 - [[Seccion 1ª - de los derechos fundamentales y las libertades publicas]]
+	 - [[Seccion 2ª - de los Derechos y los Deberes de los Ciudadanos]]
+- [[Capitulo 3º - Principios rectores de la politica social y economica]]
+- [[Capitulo 4º - De las Garantias de las libertades y derechos fundamentales]]
+- [[Capitulo 5º - Suspension de los Derechos y Libertades]]

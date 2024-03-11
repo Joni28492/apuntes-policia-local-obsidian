@@ -1,13 +1,13 @@
 
-[[Preliminar_art_1]]
-[[Preliminar_art_2]]
-[[Preliminar_art_3]]
-[[Preliminar_art_4]]
-[[Preliminar_art_5]]
-[[Preliminar_art_6]]
-[[Preliminar_art_7]]
-[[Preliminar_art_8]]
-[[Preliminar_art_9]]
+[[CE_art_1]]
+[[CE_art_2]]
+[[CE_art_3]]
+[[CE_art_4]]
+[[CE_art_5]]
+[[CE_art_6]]
+[[CE_art_7]]
+[[CE_art_8]]
+[[CE_art_9]]
 ##### Artículo 1
 
 1. España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico:

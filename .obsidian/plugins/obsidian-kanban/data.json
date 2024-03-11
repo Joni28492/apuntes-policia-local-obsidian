@@ -1,0 +1,21 @@
+{
+  "date-colors": [],
+  "tag-colors": [
+    {
+      "tagKey": "MuyGrave",
+      "color": "",
+      "backgroundColor": "rgba(252, 57, 3, 1)"
+    },
+    {
+      "tagKey": "Grave",
+      "color": "",
+      "backgroundColor": "rgba(251, 218, 0, 0.74)"
+    },
+    {
+      "tagKey": "Leve",
+      "color": "",
+      "backgroundColor": "rgba(28, 163, 16, 0.88)"
+    }
+  ],
+  "hide-card-count": false
+}

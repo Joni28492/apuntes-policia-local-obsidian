@@ -1,0 +1,5 @@
+[[Fuerzas y Cuerpos de seguridad 2-86/Titulo II/Capitulo 1º/Capitulo 1º - Disposiciones generales|Capitulo 1º - Disposiciones generales]]
+[[Capitulo 2º - de las Funciones]]
+[[Capitulo 3º - de la Guardia Civil]]
+[[Capitulo 4º - de la Policia]]
+[[Capitulo 5º - de la organizacion de Unidades de Policia Judicial]]

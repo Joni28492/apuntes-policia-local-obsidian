@@ -33,3 +33,12 @@ Graves
 
 ---
 
+### Art 14 ❓👁️‍🗨️
+
+1. El **error invencible** sobre un hecho constitutivo de la infracción penal excluye la responsabilidad criminal. si el error, atendidas las circunstancias del hecho y las personales del autor, fuera _**vencible**_, la infracción será castigada en su caso como ***imprudente***
+
+2. el _**error**_ sobre un hecho que cualifique la infracción o sobre una circunstancia agravante, ***impedirá su apreciación***
+
+3. el _**error invencible**_ sobre la ***ilicitud del hecho*** constitutivo de la infracción penal excluye la responsabilidad criminal. si el error fuera vencible, se aplicara la pena inferior en 1 o 2 grados
+
+---

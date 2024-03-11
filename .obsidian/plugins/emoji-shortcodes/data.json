@@ -1,0 +1,15 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":question:",
+    ":grey_question:",
+    ":fire:",
+    ":facepunch:",
+    ":boom:",
+    ":police_officer:",
+    ":fireworks:"
+  ]
+}

@@ -2,5 +2,8 @@
   "obsidian-excalidraw-plugin",
   "editor-width-slider",
   "marp",
-  "obsidian-tts"
+  "obsidian-tts",
+  "emoji-shortcodes",
+  "obsidian-kanban",
+  "obsidian-html-tags-autocomplete"
 ]
