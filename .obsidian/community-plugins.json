@@ -4,6 +4,7 @@
   "marp",
   "obsidian-tts",
   "emoji-shortcodes",
-  "obsidian-kanban",
-  "obsidian-html-tags-autocomplete"
+  "obsidian-html-tags-autocomplete",
+  "cloze",
+  "exercises"
 ]

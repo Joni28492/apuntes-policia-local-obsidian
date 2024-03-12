@@ -1,0 +1,6 @@
+
+1. Las disposiciones de esta Ley son aplicables en ***todo el territorio nacional***, sin perjuicio de las competencias que, en su caso, hayan asumido las comunidades autónomas en el marco de la Constitución, de los estatutos de autonomía y de la legislación del Estado en materia de seguridad pública.
+
+2. En particular, quedan fuera del ámbito de aplicación de esta Ley las prescripciones que tienen por objeto velar por el buen orden de los espectáculos y la protección de las personas y bienes a través de una acción administrativa ordinaria, aun cuando la misma pueda conllevar la intervención de las Fuerzas y Cuerpos de Seguridad, siempre que ésta se conciba como elemento integrante del sistema preventivo habitual del control del espectáculo.
+
+3. Asimismo, esta Ley se aplicará sin menoscabo de los regímenes legales que regulan ámbitos concretos de la seguridad pública, como la seguridad aérea, marítima, ferroviaria, vial o en los transportes, quedando, en todo caso, salvaguardadas las disposiciones referentes a la defensa nacional y la regulación de los estados de alarma, excepción y sitio.

@@ -5,11 +5,17 @@
   "historyLimit": 100,
   "history": [
     ":question:",
+    ":grey_exclamation:",
+    ":eye:",
+    ":police_officer:",
+    ":ambulance:",
+    ":taxi:",
+    ":medical_symbol:",
+    ":arrow_backward:",
     ":grey_question:",
     ":fire:",
     ":facepunch:",
     ":boom:",
-    ":police_officer:",
     ":fireworks:"
   ]
 }

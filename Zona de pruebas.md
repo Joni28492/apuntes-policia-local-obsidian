@@ -11,3 +11,32 @@
 	<div style="border: 2px solid lime; padding: 24px; border-radius: 5px; margin-top: 5px; height:auto;"> Infracciones leves </div>
 </div>
 
+---
+
+hola
+==hola==
+<u>hola</u>
+https://www.youtube.com/watch?v=Hentrk8UKds&ab_channel=SniferL4bs
+
+select
+
+```exercise
+	## esto es un ejemplo
+	hola ==esto== es una $select{*"prueba", "tonteria", "pasada"} y este plugin es muy $select{*"bestia","malo"}
+```
+
+uso MD
+
+```exercise
+	pregunta
+	$choice{*"op1","op2","op3",*"op4"}
+
+
+```
+
+```exercise
+variable input $input{"hola", "adios"}
+```
+
+
+Match - Emparejamiento
