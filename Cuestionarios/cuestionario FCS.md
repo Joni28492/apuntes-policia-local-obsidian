@@ -54,7 +54,11 @@ Fuerzas y Cuerpos de Seguridad?
 
 ¿Qué contemplará la remuneración justa a la que tendrán derecho los miembros de las Fuerzas
 y Cuerpos de Seguridad?
-- nivel de formación, régimen de compatibilidades, movilidad por razones del servicio, dedicación y el riesgo que comporta su misión
+- nivel de formación
+- régimen de compatibilidades
+- movilidad por razones del servicio
+- dedicación 
+- el riesgo que comporta su misión
 
 ¿Conforme a qué principios se proveerán los puestos de servicio en las respectivas categorías?
 - Capacidad Merito Antiguedad - CAM

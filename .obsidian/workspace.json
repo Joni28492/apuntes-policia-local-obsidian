@@ -23,11 +23,14 @@
             "id": "10cacda36cb8998e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fuerzas y Cuerpos de seguridad 2-86/cuestionario FCS.md",
-                "mode": "source",
-                "source": false
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
+                "viewState": {
+                  "x": -131.91194811706802,
+                  "y": 275.0415251316447,
+                  "zoom": -0.8054800744371673
+                }
               }
             }
           }
@@ -78,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fuerzas y Cuerpos de seguridad 2-86/cuestionario FCS.md",
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fuerzas y Cuerpos de seguridad 2-86/cuestionario FCS.md",
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fuerzas y Cuerpos de seguridad 2-86/cuestionario FCS.md"
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas"
               }
             }
           }
@@ -169,6 +171,15 @@
   },
   "active": "10cacda36cb8998e",
   "lastOpenFiles": [
+    "Ley bases 7-85.canvas",
+    "Constitucion/constitucion.canvas",
+    "Cuestionarios/cuestionario FCS.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Ley Organica de Cuerpos y fuerzas de seguridad 2-86.md",
+    "Preguntas merino.canvas",
+    "Cuestionarios",
+    "Excalidraw/Penas_Graves.excalidraw.md",
+    "Zona de pruebas.md",
+    "Constitucion/Titulo preliminar/Titulo preliminar.md",
     "Excalidraw/Lepar.excalidraw.md",
     "Excalidraw/src/Pasted Image 20240312125912_594.png",
     "Excalidraw/src/Pasted Image 20240312125857_608.png",
@@ -180,17 +191,11 @@
     "Seguridad ciudadana/Capitulo I/SC_Art_5_Autoridades_y_Organos_Competentes.md",
     "Seguridad ciudadana/Capitulo I/SC_Art_4_Principios _Rectores_etc.md",
     "Seguridad ciudadana/Capitulo I/SC_Art_2_Ambito_Aplicacion.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/cuestionario FCS.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Ley Organica de Cuerpos y fuerzas de seguridad 2-86.md",
-    "Ley bases 7-85.canvas",
     "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 2º/FCS_Art_5.md",
     "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_4.md",
     "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_3.md",
     "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_2.md",
     "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_1.md",
-    "Constitucion/constitucion.canvas",
-    "Preguntas merino.canvas",
-    "Zona de pruebas.md",
     "Untitled Kanban.md",
     "Constitucion/Titulo II/Titulo II - De la Corona.md",
     "Constitucion/Titulo II/CE_Art_62_Funciones.md",
@@ -199,8 +204,6 @@
     "Constitucion/Titulo IV/CE_Art_104_Fuerzas_Cuerpos_Seguridad_Estado.md",
     "Constitucion/Titulo V/Titulo V - De las Relaciones entre el GOB y las CCGG.md",
     "Constitucion/Titulo VI/CE_Art_126_Policia_Judicial.md",
-    "Constitucion/Titulo VI/Titulo VI - Poder Judicial.md",
-    "Constitucion/Titulo preliminar/Titulo preliminar.md",
     "Coordinacion policias locales.canvas",
     "Trafico/ITV/ITV.canvas",
     "Proteccion Civil.canvas",
@@ -212,7 +215,6 @@
     "Codigo penal/Libro II/Titulo XII",
     "Codigo penal/Libro II/Titulo XI",
     "Codigo penal/Libro II/Titulo X",
-    "Codigo penal/Libro II/Titulo IX",
     "Infracciones Trafico.canvas",
     "Trafico/Transporte/Transporte y movilidad sostenible.canvas",
     "Trafico/Transporte/Transporte Mercancias Perecederas.canvas",
