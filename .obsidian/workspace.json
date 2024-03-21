@@ -4,38 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bbb2106402159ab",
+        "id": "de7dd279d7fda493",
         "type": "tabs",
         "children": [
           {
-            "id": "1295ce453d4dc96f",
+            "id": "0dac3c504aa2b713",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seguridad ciudadana/Capitulo II/Capitulo II - Documentación e identificación personal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10cacda36cb8998e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
-                "viewState": {
-                  "x": -131.91194811706802,
-                  "y": 275.0415251316447,
-                  "zoom": -0.8054800744371673
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cues",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,56 +144,57 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "10cacda36cb8998e",
+  "active": "0dac3c504aa2b713",
   "lastOpenFiles": [
+    "Codigo penal/Libro I/Titulo VII/Titulo VII - De la extinción de la responsabilidad criminal y sus efectos.md",
+    "Codigo penal/Libro I/Titulo V/Titulo V - De la responsabilidad civil derivada de los delitos y de las costas procesales.md",
+    "Codigo penal/Libro I/Titulo IV/Capitulo II/Capitulo II - De la aplicación de las medidas de seguridad.md",
+    "Codigo penal/Libro I/Titulo IV/Titulo IV - de las medidas de seguridad.md",
+    "Codigo penal/Libro I/Titulo III/Capitulo III/Capitulo III - De las formas sustitutivas de la ejecución de las penas privativas de libertad y de la libertad condicional..md",
+    "Codigo penal/Libro I/Titulo III/Capitulo II/Capitulo II - De la aplicacion de las penas.md",
+    "Codigo penal/Libro I/Titulo III/Capitulo I/Capitulo I - De las penas, sus clases y efectos.md",
+    "Codigo penal/Libro I/Titulo III/Titulo III - de las penas.md",
+    "Codigo penal/Libro I/Titulo II/Titulo II - De las personas criminalmente responsables de los delitos.md",
+    "Codigo penal/Libro I/Titulo I/Titulo I - De la infracion penal.md",
+    "Codigo penal/Libro I/Libro I - Disposiciones generales sobre los delitos.md",
+    "Codigo penal/Codigo_Penal.md",
+    "Codigo penal/Libro I/Titulo VII/Capitulo II/Capitulo II - De la cancelación de antecedentes delictivos.md",
+    "Codigo penal/Libro I/Titulo VII/Capitulo I/Capitulo I - De las causas que extinguen la responsabilidad criminal.md",
+    "Codigo penal/Libro I/Titulo VII/Capitulo II",
+    "Codigo penal/Libro I/Titulo VII/Capitulo I",
+    "Codigo penal/Libro I/Titulo VI/Titulo VI - De las consecuencias accesorias.md",
+    "Codigo penal/Libro I/Titulo V/Capitulo IV/Capitulo IV - Del cumplimiento de la responsabilidad civil y demás responsabilidades pecuniarias.md",
+    "Codigo penal/Libro I/Titulo V/Capitulo III/Capitulo III - de las costas procesales.md",
+    "Codigo penal/Libro I/Titulo V/Capitulo IV",
+    "Codigo penal/Libro I/Titulo V/Capitulo II/Capitulo II - De las personas civilmente responsables.md",
+    "Codigo penal/Libro I/Titulo V/Capitulo III",
+    "Codigo penal/Libro I/Titulo V/Capitulo I/Capitulo I - De la responsabilidad civil y su extensión.md",
+    "Codigo penal/Libro I/Titulo V/Capitulo II",
+    "Codigo penal/Libro I/Titulo V/Capitulo I",
+    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 2ª/seccion 2ª - De las medidas no privativas de libertad.md",
+    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 1ª/seccion 1ª - De las medidas privativas de libertad.md",
+    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 2ª",
+    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 1ª",
+    "Codigo penal/Libro I/Titulo IV/Capitulo I/Capitulo I - De las medidas de seguridad en general.md",
+    "Codigo penal/Libro I/Titulo IV/Capitulo II",
+    "Codigo penal/Libro I/Titulo IV/Capitulo I",
+    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 4ª/seccion 4ª - disposiciones comunes.md",
+    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 3ª/seccion 3ª - de la libertad condicional.md",
+    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 2ª/seccion 2ª - De la sustitución de las penas privativas de libertad.md",
+    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 1ª/seccion 1ª - De la suspensión de la ejecución de las penas privativas de libertad.md",
+    "Drogas.canvas",
     "Ley bases 7-85.canvas",
-    "Constitucion/constitucion.canvas",
-    "Cuestionarios/cuestionario FCS.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Ley Organica de Cuerpos y fuerzas de seguridad 2-86.md",
+    "Excalidraw/src/Pasted Image 20240312125857_577.png",
+    "Trafico/ITV/ITV.canvas",
+    "Armas/Armas.canvas",
+    "Trafico/Transporte/Transporte menores.canvas",
+    "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
     "Preguntas merino.canvas",
-    "Cuestionarios",
-    "Excalidraw/Penas_Graves.excalidraw.md",
-    "Zona de pruebas.md",
-    "Constitucion/Titulo preliminar/Titulo preliminar.md",
-    "Excalidraw/Lepar.excalidraw.md",
+    "Trafico/SOA/SOA - Seguro Obligatorio.canvas",
+    "Constitucion/constitucion.canvas",
     "Excalidraw/src/Pasted Image 20240312125912_594.png",
     "Excalidraw/src/Pasted Image 20240312125857_608.png",
-    "Excalidraw/src/Pasted Image 20240312125857_577.png",
-    "Excalidraw/src",
-    "Seguridad ciudadana/Capitulo II/Capitulo II - Documentación e identificación personal.md",
-    "Seguridad ciudadana/Capitulo I/Capitulo I - Disposiciones generales.md",
-    "Seguridad ciudadana/Capitulo I/SC_Art_6_Cooperacion_interadministrativa.md",
-    "Seguridad ciudadana/Capitulo I/SC_Art_5_Autoridades_y_Organos_Competentes.md",
-    "Seguridad ciudadana/Capitulo I/SC_Art_4_Principios _Rectores_etc.md",
-    "Seguridad ciudadana/Capitulo I/SC_Art_2_Ambito_Aplicacion.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 2º/FCS_Art_5.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_4.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_3.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_2.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 1º/FCS_Art_1.md",
-    "Untitled Kanban.md",
-    "Constitucion/Titulo II/Titulo II - De la Corona.md",
-    "Constitucion/Titulo II/CE_Art_62_Funciones.md",
-    "Constitucion/Titulo II/CE_Art_57_Sucesion.md",
-    "Constitucion/Titulo IV/Titulo IV - del gobierno y de la administracion.md",
-    "Constitucion/Titulo IV/CE_Art_104_Fuerzas_Cuerpos_Seguridad_Estado.md",
-    "Constitucion/Titulo V/Titulo V - De las Relaciones entre el GOB y las CCGG.md",
-    "Constitucion/Titulo VI/CE_Art_126_Policia_Judicial.md",
     "Coordinacion policias locales.canvas",
-    "Trafico/ITV/ITV.canvas",
-    "Proteccion Civil.canvas",
-    "Codigo penal/Libro II/Titulo XX",
-    "Codigo penal/Libro II/Titulo XIX",
-    "Codigo penal/Libro II/Titulo XVIII",
-    "Codigo penal/Libro II/Titulo XVII",
-    "Codigo penal/Libro II/Titulo XIII",
-    "Codigo penal/Libro II/Titulo XII",
-    "Codigo penal/Libro II/Titulo XI",
-    "Codigo penal/Libro II/Titulo X",
-    "Infracciones Trafico.canvas",
-    "Trafico/Transporte/Transporte y movilidad sostenible.canvas",
-    "Trafico/Transporte/Transporte Mercancias Perecederas.canvas",
-    "Trafico/Transporte/Transporte menores.canvas",
     "Codigo penal/src/Pasted image 20240304171833.png",
     "src/Pasted image 20240229174939.png",
     "src/Pasted image 20240229175010.png",

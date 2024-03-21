@@ -45,7 +45,6 @@
 		{"id":"6c43864fde762027","type":"text","text":"### +6 - anual","x":1085,"y":1990,"width":250,"height":60,"color":"2"},
 		{"id":"02f05bfbbfd47f8c","type":"text","text":"- plazo max 2 meses\n- transporte por medios ajenos al vehiculo","x":852,"y":724,"width":250,"height":136,"color":"1"},
 		{"id":"0989332c18d59973","type":"text","text":"O3,O4","x":-312,"y":2400,"width":250,"height":60},
-		{"id":"de8b39a0f633bed1","type":"text","text":"O2 (excepto caravanas)","x":-312,"y":2503,"width":250,"height":60},
 		{"id":"39e1363dbc4c4423","type":"text","text":"### hasta 10 años anual","x":129,"y":2357,"width":301,"height":56,"color":"2"},
 		{"id":"41ad1b1f2f45a0b3","type":"text","text":"### +10 años -semestral","x":129,"y":2443,"width":301,"height":60,"color":"1"},
 		{"id":"08a85939c2507965","type":"text","text":"### Hasta 6 años - exento","x":78,"y":2700,"width":295,"height":61,"color":"4"},
@@ -54,7 +53,8 @@
 		{"id":"152b044a2d2d618e","type":"text","text":"### hasta 2 años - Exento","x":160,"y":1780,"width":336,"height":52,"color":"4"},
 		{"id":"dc3c7268c1e8a34b","type":"text","text":"### de 6 a 10 - anual ","x":160,"y":1952,"width":250,"height":60,"color":"2"},
 		{"id":"97ef81ede2f4a6ca","type":"text","text":"### +10 - Semestral","x":160,"y":2040,"width":250,"height":60,"color":"1"},
-		{"id":"648427586f310a67","type":"text","text":"Estaciones transformadoras o Circo","x":640,"y":1862,"width":250,"height":60}
+		{"id":"648427586f310a67","type":"text","text":"Estaciones transformadoras o Circo","x":640,"y":1862,"width":250,"height":60},
+		{"id":"de8b39a0f633bed1","type":"text","text":"O2 (excepto caravanas)","x":-312,"y":2503,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"24aee776f624d3ea","fromNode":"80c2aca1636bed6c","fromSide":"bottom","toNode":"26da186c1dc8a8e8","toSide":"top","label":"someterse antes de la fecha"},
