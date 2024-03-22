@@ -1,0 +1,10 @@
+1. El Gobierno regulará las medidas de control necesarias sobre las materias relacionadas en el artículo anterior:
+
+a) Mediante la sujeción de la apertura y funcionamiento de las fábricas, talleres, depósitos, establecimientos de comercialización y lugares de utilización y las actividades relacionadas con ellas a requisitos de catalogación o clasificación, autorización, información, inspección, vigilancia y control, requisitos especiales de habilitación para el personal encargado de su manipulación, así como la determinación del régimen de responsabilidad de quienes tengan el deber de prevenir la comisión de determinadas infracciones.
+
+b) Estableciendo la obligatoria titularidad de licencias, permisos o autorizaciones para la adquisición, tenencia y utilización de armas de fuego, cuya expedición tendrá carácter restrictivo cuando se trate de armas de defensa personal, en relación con las cuales la concesión de las licencias, permisos o autorizaciones se limitará a supuestos de estricta necesidad. Para la concesión de licencias, permisos y autorizaciones se tendrán en cuenta la conducta y antecedentes del interesado. En todo caso, el solicitante prestará su consentimiento expreso a favor del órgano de la Administración General del Estado que tramita su solicitud para que se recaben sus antecedentes penales.
+
+c) A través de la prohibición de la fabricación, tenencia y comercialización de armas, cartuchería, artículos pirotécnicos y explosivos especialmente peligrosos, así como el depósito de los mismos.
+
+2. La fabricación, comercio y distribución de armas, artículos pirotécnicos, cartuchería y explosivos, constituye un sector con regulación específica en materia de derecho de establecimiento, en los términos previstos por la legislación sobre inversiones extranjeras en España, correspondiendo a los Ministerios de Defensa, del Interior y de Industria, Energía y Turismo el ejercicio de las competencias de supervisión y control.
+3. 

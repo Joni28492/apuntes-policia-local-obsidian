@@ -1,0 +1,4 @@
+1. Las personas físicas o jurídicas que ejerzan actividades relevantes para la seguridad ciudadana, como las de hospedaje, transporte de personas, acceso comercial a servicios telefónicos o telemáticos de uso público mediante establecimientos abiertos al público, comercio o reparación de objetos usados, alquiler o desguace de vehículos de motor, compraventa de joyas y metales, ya sean preciosos o no, objetos u obras de arte, cerrajería de seguridad, centros gestores de residuos metálicos, establecimientos de comercio al por mayor de chatarra o productos de desecho, o de venta de productos químicos peligrosos a particulares, quedarán sujetas a las obligaciones de registro documental e información en los términos que establezcan las disposiciones aplicables.
+
+2. Los titulares de embarcaciones de alta velocidad, así como los de aeronaves ligeras estarán obligados a realizar las actuaciones de registro documental e información previstas en la normativa vigente.
+3. 

@@ -1,0 +1,1 @@
+La provocación, la conspiración y la proposición para cometer los delitos previstos en los artículos precedentes de este Título, será castigada con la pena inferior en uno o dos grados a la del delito correspondiente

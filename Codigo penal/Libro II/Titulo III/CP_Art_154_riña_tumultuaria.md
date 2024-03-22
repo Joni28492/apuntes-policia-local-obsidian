@@ -1,0 +1,1 @@
+Quienes riñeren entre sí, acometiéndose tumultuariamente, y utilizando medios o instrumentos que pongan en peligro la vida o integridad de las personas, serán castigados por su participación en la riña con la pena de prisión de tres meses a un año o multa de seis a 24 meses

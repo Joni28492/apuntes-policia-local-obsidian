@@ -1,0 +1,2 @@
+El que, por cualquier medio o procedimiento, causare en un feto una lesión o enfermedad que perjudique gravemente su normal desarrollo, o provoque en el mismo una grave tara física o psíquica, será castigado con pena de prisión de uno a cuatro años e inhabilitación especial para ejercer cualquier profesión sanitaria, o para prestar servicios de toda índole en clínicas, establecimientos o consultorios ginecológicos, públicos o privados, por tiempo de dos a ocho años.
+

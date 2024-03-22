@@ -1,0 +1,1 @@
+El secuestro de una persona exigiendo alguna condición para ponerla en libertad, será castigado con la pena de prisión de seis a diez años. Si en el secuestro se hubiera dado la circunstancia del artículo 163.3, se impondrá la pena superior en grado, y la inferior en grado si se dieren las condiciones del artículo 163.2

@@ -1,0 +1,1 @@
+Las penas de los artículos anteriores se impondrán en su mitad superior, en los respectivos casos, si la detención ilegal o secuestro se ha ejecutado con simulación de autoridad o función pública, o la víctima fuere menor de edad o persona con discapacidad necesitada de especial protección o funcionario público en el ejercicio de sus funciones

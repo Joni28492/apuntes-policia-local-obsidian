@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "de7dd279d7fda493",
+        "id": "1646af6ad4bae2d8",
         "type": "tabs",
         "children": [
           {
-            "id": "0dac3c504aa2b713",
+            "id": "241364cc48932592",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Seguridad ciudadana/Capitulo IV/SC_Art_29_medidas_de_control.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Seguridad ciudadana/Capitulo IV/SC_Art_29_medidas_de_control.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Seguridad ciudadana/Capitulo IV/SC_Art_29_medidas_de_control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Seguridad ciudadana/Capitulo IV/SC_Art_29_medidas_de_control.md"
+              }
             }
           }
         ]
@@ -144,46 +152,49 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "0dac3c504aa2b713",
+  "active": "e088ce29afc96e31",
   "lastOpenFiles": [
-    "Codigo penal/Libro I/Titulo VII/Titulo VII - De la extinción de la responsabilidad criminal y sus efectos.md",
-    "Codigo penal/Libro I/Titulo V/Titulo V - De la responsabilidad civil derivada de los delitos y de las costas procesales.md",
-    "Codigo penal/Libro I/Titulo IV/Capitulo II/Capitulo II - De la aplicación de las medidas de seguridad.md",
-    "Codigo penal/Libro I/Titulo IV/Titulo IV - de las medidas de seguridad.md",
-    "Codigo penal/Libro I/Titulo III/Capitulo III/Capitulo III - De las formas sustitutivas de la ejecución de las penas privativas de libertad y de la libertad condicional..md",
-    "Codigo penal/Libro I/Titulo III/Capitulo II/Capitulo II - De la aplicacion de las penas.md",
-    "Codigo penal/Libro I/Titulo III/Capitulo I/Capitulo I - De las penas, sus clases y efectos.md",
-    "Codigo penal/Libro I/Titulo III/Titulo III - de las penas.md",
-    "Codigo penal/Libro I/Titulo II/Titulo II - De las personas criminalmente responsables de los delitos.md",
-    "Codigo penal/Libro I/Titulo I/Titulo I - De la infracion penal.md",
-    "Codigo penal/Libro I/Libro I - Disposiciones generales sobre los delitos.md",
-    "Codigo penal/Codigo_Penal.md",
-    "Codigo penal/Libro I/Titulo VII/Capitulo II/Capitulo II - De la cancelación de antecedentes delictivos.md",
-    "Codigo penal/Libro I/Titulo VII/Capitulo I/Capitulo I - De las causas que extinguen la responsabilidad criminal.md",
-    "Codigo penal/Libro I/Titulo VII/Capitulo II",
-    "Codigo penal/Libro I/Titulo VII/Capitulo I",
-    "Codigo penal/Libro I/Titulo VI/Titulo VI - De las consecuencias accesorias.md",
-    "Codigo penal/Libro I/Titulo V/Capitulo IV/Capitulo IV - Del cumplimiento de la responsabilidad civil y demás responsabilidades pecuniarias.md",
-    "Codigo penal/Libro I/Titulo V/Capitulo III/Capitulo III - de las costas procesales.md",
-    "Codigo penal/Libro I/Titulo V/Capitulo IV",
-    "Codigo penal/Libro I/Titulo V/Capitulo II/Capitulo II - De las personas civilmente responsables.md",
-    "Codigo penal/Libro I/Titulo V/Capitulo III",
-    "Codigo penal/Libro I/Titulo V/Capitulo I/Capitulo I - De la responsabilidad civil y su extensión.md",
-    "Codigo penal/Libro I/Titulo V/Capitulo II",
-    "Codigo penal/Libro I/Titulo V/Capitulo I",
-    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 2ª/seccion 2ª - De las medidas no privativas de libertad.md",
-    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 1ª/seccion 1ª - De las medidas privativas de libertad.md",
-    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 2ª",
-    "Codigo penal/Libro I/Titulo IV/Capitulo II/seccion 1ª",
-    "Codigo penal/Libro I/Titulo IV/Capitulo I/Capitulo I - De las medidas de seguridad en general.md",
-    "Codigo penal/Libro I/Titulo IV/Capitulo II",
-    "Codigo penal/Libro I/Titulo IV/Capitulo I",
-    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 4ª/seccion 4ª - disposiciones comunes.md",
-    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 3ª/seccion 3ª - de la libertad condicional.md",
-    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 2ª/seccion 2ª - De la sustitución de las penas privativas de libertad.md",
-    "Codigo penal/Libro I/Titulo III/Capitulo III/seccion 1ª/seccion 1ª - De la suspensión de la ejecución de las penas privativas de libertad.md",
-    "Drogas.canvas",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_54_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_53_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_52_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_51_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_50_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_49_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_48_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_47_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_46_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_45_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 3ª/SC_Art_44_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_43_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_42_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_41_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_40_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_39_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_38_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_37_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_36_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_35_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 2ª/SC_Art_34_.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 1ª/SC_Art_33.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 1ª/SC_Art_32.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 1ª/SC_Art_31.md",
+    "Seguridad ciudadana/Capitulo V/Seccion 1ª/SC_Art_30.md",
+    "Seguridad ciudadana/Capitulo IV/SC_Art_28_control_administrativo_armas_explosivos_cartucheria_pirotecnia.md",
+    "Apps/data/ffccss/ffccss.json",
+    "Apps/main.py",
+    "Constitucion/constitucion.canvas",
     "Ley bases 7-85.canvas",
+    "Apps/services/DataService.js",
+    "Apps/services/ExercisesBuilder.js",
+    "Apps/services",
+    "Apps/main.js",
+    "Apps/package.json",
+    "Apps/data/trafico/index.ts",
+    "Apps/data/trafico/bloqueIII_tema9_itv_seguros.ts",
+    "Apps/data/trafico/bloqueIII_tema9_itv_seguros.json",
+    "Apps/obsidian-test/src/typescript.svg",
+    "Apps/obsidian-test/public/vite.svg",
+    "Drogas.canvas",
     "Excalidraw/src/Pasted Image 20240312125857_577.png",
     "Trafico/ITV/ITV.canvas",
     "Armas/Armas.canvas",
@@ -191,7 +202,6 @@
     "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
     "Preguntas merino.canvas",
     "Trafico/SOA/SOA - Seguro Obligatorio.canvas",
-    "Constitucion/constitucion.canvas",
     "Excalidraw/src/Pasted Image 20240312125912_594.png",
     "Excalidraw/src/Pasted Image 20240312125857_608.png",
     "Coordinacion policias locales.canvas",
@@ -199,7 +209,6 @@
     "src/Pasted image 20240229174939.png",
     "src/Pasted image 20240229175010.png",
     "src/Pasted image 20240229174954.png",
-    "Constitucion/src/Seehund11cele4_edit.jpg",
-    "src/Screenshot_4.png"
+    "Constitucion/src/Seehund11cele4_edit.jpg"
   ]
 }

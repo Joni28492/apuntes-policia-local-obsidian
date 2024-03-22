@@ -1,0 +1,1 @@
+Las autoridades competentes, de conformidad con las Leyes y reglamentos, podrán dictar las órdenes y prohibiciones y disponer las actuaciones policiales estrictamente necesarias para asegurar la consecución de los fines previstos en esta Ley, mediante resolución debidamente motivada.

@@ -1,0 +1,4 @@
+1. Las diligencias de identificación, registro y comprobación practicadas por los agentes de las Fuerzas y Cuerpos de Seguridad con ocasión de actuaciones realizadas conforme a lo dispuesto en esta sección no estarán sujetas a las mismas formalidades que la detención.
+
+2. La aprehensión durante las diligencias de identificación, registro y comprobación de armas, drogas tóxicas, estupefacientes, sustancias psicotrópicas u otros efectos procedentes de un delito o infracción administrativa se hará constar en el acta correspondiente, que habrá de ser firmada por el interesado; si éste se negara a firmarla, se dejará constancia expresa de su negativa. El acta que se extienda gozará de presunción de veracidad de los hechos en ella consignados, salvo prueba en contrario.
+3. 
