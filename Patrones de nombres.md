@@ -5,6 +5,7 @@ Codigo Penal CP_Art_xx_nombre?
 LSV_Art_xx_nombre?
 RGC_Art_xx_nombre?
 FCS_Art_xx_nombre?
+ADMIN_Art_xx_nombre?
 
 
 

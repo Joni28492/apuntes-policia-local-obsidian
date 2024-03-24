@@ -1,0 +1,7 @@
+1. Será castigado con la pena de prisión de uno a cuatro años, como responsable de agresión sexual, el que realice cualquier acto que atente contra la libertad sexual de otra persona sin su consentimiento. Sólo se entenderá que hay consentimiento cuando se haya manifestado libremente mediante actos que, en atención a las circunstancias del caso, expresen de manera clara la voluntad de la persona.
+
+2. Se consideran en todo caso agresión sexual los actos de contenido sexual que se realicen empleando violencia, intimidación o abuso de una situación de superioridad o de vulnerabilidad de la víctima, así como los que se ejecuten sobre personas que se hallen privadas de sentido o de cuya situación mental se abusare y los que se realicen cuando la víctima tenga anulada por cualquier causa su voluntad.
+
+3. Si la agresión se hubiera cometido empleando violencia o intimidación o sobre una víctima que tenga anulada por cualquier causa su voluntad, su responsable será castigado con la pena de uno a cinco años de prisión.
+
+4. El órgano sentenciador, razonándolo en la sentencia, y siempre que no medie violencia o intimidación o que la víctima tuviera anulada por cualquier causa su voluntad o no concurran las circunstancias del artículo 180, podrá imponer la pena de prisión en su mitad inferior o multa de dieciocho a veinticuatro meses, en atención a la menor entidad del hecho y a las circunstancias personales del culpable.

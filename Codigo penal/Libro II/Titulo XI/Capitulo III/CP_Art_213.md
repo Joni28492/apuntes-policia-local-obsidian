@@ -1,0 +1,1 @@
+Si la calumnia o injuria fueren cometidas mediante precio, recompensa o promesa, los Tribunales impondrán, además de las penas señaladas para los delitos de que se trate, la de inhabilitación especial prevista en los artículos 42 ó 45 del presente Código, por tiempo de seis meses a dos años

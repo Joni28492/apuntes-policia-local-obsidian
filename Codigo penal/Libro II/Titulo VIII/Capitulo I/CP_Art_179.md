@@ -1,0 +1,3 @@
+1. Cuando la agresión sexual consista en acceso carnal por vía vaginal, anal o bucal, o introducción de miembros corporales u objetos por alguna de las dos primeras vías, el responsable será castigado como reo de violación con la pena de prisión de cuatro a doce años.
+
+2. Si la agresión a la que se refiere el apartado anterior se cometiere empleando violencia o intimidación o cuando la víctima tuviera anulada por cualquier causa su voluntad, se impondrá la pena de prisión de seis a doce años.

@@ -1,0 +1,1 @@
+Son reos del delito de robo los que, con ánimo de lucro, se apoderaren de las cosas muebles ajenas empleando fuerza en las cosas para acceder o abandonar el lugar donde éstas se encuentran o violencia o intimidación en las personas, sea al cometer el delito, para proteger la huida, o sobre los que acudiesen en auxilio de la víctima o que le persiguieren.

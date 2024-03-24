@@ -1,0 +1,1 @@
+El ejercicio de la potestad sancionadora en materia de protección de la seguridad ciudadana se regirá por el título IX de la Ley 30/1992, de 26 de noviembre, y sus disposiciones de desarrollo, sin perjuicio de las especialidades que se regulan en este capítulo.

@@ -1,0 +1,5 @@
+[[SC_Art_25_obligaciones_registro_documental]]
+[[SC_Art_26_Establecimientos_obligados_adoptar_medidas_seguridad]]
+[[SC_Art_27_espectaculos_actividades_recreativas]]
+[[SC_Art_28_control_administrativo_armas_explosivos_cartucheria_pirotecnia]]
+[[SC_Art_29_medidas_de_control]]

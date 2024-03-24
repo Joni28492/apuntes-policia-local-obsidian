@@ -1,0 +1,1 @@
+Las infracciones tipificadas en esta Ley se clasifican en muy graves, graves y leves.

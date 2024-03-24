@@ -1,0 +1,2 @@
+[[SC_Art_23_reuniones_y_manifestaciones]]
+[[SC_Art_24_colaboracion_cuerpos_y_fuerzas_de_seguridad]]

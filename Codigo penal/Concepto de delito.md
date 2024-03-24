@@ -20,7 +20,7 @@ las penas se clasifican en penas Graves, Menos Graves y Leves
 
 ---
 Graves
-[[Penas_Graves.excalidraw]]
+[[Penas.excalidraw]]
 
 
 ---

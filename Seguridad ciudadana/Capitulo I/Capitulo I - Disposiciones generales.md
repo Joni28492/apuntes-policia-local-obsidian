@@ -1,4 +1,6 @@
+[[SC_Art_1_objeto]]
 [[SC_Art_2_Ambito_Aplicacion]]
 [[SC_Art_4_Principios _Rectores_etc]]
 [[SC_Art_5_Autoridades_y_Organos_Competentes]]
 [[SC_Art_6_Cooperacion_interadministrativa]]
+[[SC_Art_7_deber_de_colaboracion]]

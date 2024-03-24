@@ -40,3 +40,13 @@ variable input $input{"hola", "adios"}
 
 
 Match - Emparejamiento
+
+
+
+```exercise
+$match{"Markdown"=>"md", "python"=>"py", "javascript"=>"js"}
+
+```
+
+
+usar sistema de notas cornell

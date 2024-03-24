@@ -1,0 +1,3 @@
+Si el acusado de calumnia o injuria reconociere ante la autoridad judicial la falsedad o falta de certeza de las imputaciones y se retractare de ellas, el Juez o Tribunal impondrá la pena inmediatamente inferior en grado y podrá dejar de imponer la pena de inhabilitación que establece el artículo anterior.
+
+El Juez o Tribunal ante quien se produjera el reconocimiento ordenará que se entregue testimonio de retractación al ofendido y, si éste lo solicita, ordenará su publicación en el mismo medio en que se vertió la calumnia o injuria, en espacio idéntico o similar a aquél en que se produjo su difusión y dentro del plazo que señale el Juez o Tribunal sentenciador.

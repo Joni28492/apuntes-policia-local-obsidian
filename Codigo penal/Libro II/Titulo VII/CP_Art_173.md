@@ -1,0 +1,23 @@
+1. El que infligiera a otra persona un trato degradante, menoscabando gravemente su integridad moral, será castigado con la pena de prisión de seis meses a dos años.
+
+Igual pena se impondrá a quienes, teniendo conocimiento del paradero del cadáver de una persona, oculten de modo reiterado tal información a los familiares o allegados de la misma.
+
+Con la misma pena serán castigados los que, en el ámbito de cualquier relación laboral o funcionarial y prevaliéndose de su relación de superioridad, realicen contra otro de forma reiterada actos hostiles o humillantes que, sin llegar a constituir trato degradante, supongan grave acoso contra la víctima.
+
+Se impondrá también la misma pena al que de forma reiterada lleve a cabo actos hostiles o humillantes que, sin llegar a constituir trato degradante, tengan por objeto impedir el legítimo disfrute de la vivienda.
+
+Cuando de acuerdo con lo establecido en el artículo 31 bis, una persona jurídica sea responsable de los delitos comprendidos en los párrafos anteriores, se le impondrá la pena de multa de seis meses a dos años. Atendidas las reglas establecidas en el artículo 66 bis, los Jueces y Tribunales podrán asimismo imponer las penas recogidas en las letras b) a g) del apartado 7 del artículo 33.
+
+2. El que habitualmente ejerza violencia física o psíquica sobre quien sea o haya sido su cónyuge o sobre persona que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, o sobre los descendientes, ascendientes o hermanos por naturaleza, adopción o afinidad, propios o del cónyuge o conviviente, o sobre los menores o personas con discapacidad necesitadas de especial protección que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente, o sobre persona amparada en cualquier otra relación por la que se encuentre integrada en el núcleo de su convivencia familiar, así como sobre las personas que por su especial vulnerabilidad se encuentran sometidas a custodia o guarda en centros públicos o privados, será castigado con la pena de prisión de seis meses a tres años, privación del derecho a la tenencia y porte de armas de tres a cinco años y, en su caso, cuando el juez o tribunal lo estime adecuado al interés del menor o persona con discapacidad necesitada de especial protección, inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento por tiempo de uno a cinco años, sin perjuicio de las penas que pudieran corresponder a los delitos en que se hubieran concretado los actos de violencia física o psíquica.
+
+Se impondrán las penas en su mitad superior cuando alguno o algunos de los actos de violencia se perpetren en presencia de menores, o utilizando armas, o tengan lugar en el domicilio común o en el domicilio de la víctima, o se realicen quebrantando una pena de las contempladas en el artículo 48 o una medida cautelar o de seguridad o prohibición de la misma naturaleza.
+
+En los supuestos a que se refiere este apartado, podrá además imponerse una medida de libertad vigilada.
+
+3. Para apreciar la habitualidad a que se refiere el apartado anterior, se atenderá al número de actos de violencia que resulten acreditados, así como a la proximidad temporal de los mismos, con independencia de que dicha violencia se haya ejercido sobre la misma o diferentes víctimas de las comprendidas en este artículo, y de que los actos violentos hayan sido o no objeto de enjuiciamiento en procesos anteriores.
+
+4. Quien cause injuria o vejación injusta de carácter leve, cuando el ofendido fuera una de las personas a las que se refiere el apartado 2 del artículo 173, será castigado con la pena de localización permanente de cinco a treinta días, siempre en domicilio diferente y alejado del de la víctima, o trabajos en beneficio de la comunidad de cinco a treinta días, o multa de uno a cuatro meses, esta última únicamente en los supuestos en los que concurren las circunstancias expresadas en el apartado 2 del artículo 84.
+
+Las mismas penas se impondrán a quienes se dirijan a otra persona con expresiones, comportamientos o proposiciones de carácter sexual que creen a la víctima una situación objetivamente humillante, hostil o intimidatoria, sin llegar a constituir otros delitos de mayor gravedad.
+
+Los delitos tipificados en los dos párrafos anteriores sólo serán perseguibles mediante denuncia de la persona agraviada o su representante legal.

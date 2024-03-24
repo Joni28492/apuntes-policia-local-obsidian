@@ -1,0 +1,1 @@
+Se impondrán las penas respectivamente establecidas en los artículos precedentes a la autoridad o funcionario que, faltando a los deberes de su cargo, permitiere que otras personas ejecuten los hechos previstos en ellos.

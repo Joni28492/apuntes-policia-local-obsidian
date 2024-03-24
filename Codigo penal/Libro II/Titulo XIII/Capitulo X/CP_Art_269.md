@@ -1,0 +1,1 @@
+La provocación, la conspiración y la proposición para cometer los delitos de robo, extorsión, estafa o apropiación indebida, serán castigadas con la pena inferior en uno o dos grados a la del delito correspondiente.

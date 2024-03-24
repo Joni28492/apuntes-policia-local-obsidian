@@ -5,7 +5,7 @@
 -  [[Titulo V - Delitos relativos a la manipulación genética]]  
 -  [[Titulo VI - Delitos contra la libertad]].  
 -  [[Titulo VII - De las torturas y otros delitos contra la integridad moral]]  
-- [[Titulo VIII - Delitos contra la libertad e indemnidad sexuales]]  
+- [[Titulo VIII - Delitos contra la libertad sexuale]]  
 - [[Titulo IX - De la omisión del deber de socorro.]]
 - [[Titulo X - Delitos contra la intimidad, el derecho a la propia imagen y a la inviolabilidad del domicilio]]
 - [[Titulo XI - Delitos contra el honor]]  
