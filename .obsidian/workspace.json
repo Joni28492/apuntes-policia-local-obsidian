@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "543c9dbb3aef7213",
+        "id": "c731a0b40e6fa9ff",
         "type": "tabs",
         "children": [
           {
-            "id": "504a457f08ca7804",
+            "id": "16a842603886f7e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codigo penal/Libro II/Titulo XIII/Capitulo X/CP_Art_269.md",
+                "file": "Codigo penal/Libro I/Titulo I/Capitulo I/Capitulo I - De los delitos.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "56ba797b66b64e16",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
+                "viewState": {
+                  "x": 1222.2189085389643,
+                  "y": 855.018972372289,
+                  "zoom": -0.20481859281065357
+                }
+              }
+            }
+          },
+          {
+            "id": "a3381da2e773b772",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Trafico/ITV/ITV.canvas",
+                "viewState": {
+                  "x": 453.0929312942619,
+                  "y": 1721.1259894718767,
+                  "zoom": -1.1523511729165177
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CP_Art_168",
+                "query": "itv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codigo penal/Libro II/Titulo XIII/Capitulo X/CP_Art_269.md",
+                "file": "Trafico/ITV/ITV.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codigo penal/Libro II/Titulo XIII/Capitulo X/CP_Art_269.md",
+                "file": "Trafico/ITV/ITV.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codigo penal/Libro II/Titulo XIII/Capitulo X/CP_Art_269.md"
+                "file": "Trafico/ITV/ITV.canvas"
               }
             }
           }
@@ -152,63 +184,63 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "504a457f08ca7804",
+  "active": "a3381da2e773b772",
   "lastOpenFiles": [
-    "Codigo penal/Libro II/Titulo XIII/Capitulo X/CP_Art_268.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo X/CP_Art_269.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo X/Capitulo X - Disposiciones comunes a los capítulos anteriores.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IX/CP_Art_267.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo X",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IX/CP_Art_266.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IX/CP_Art_265.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IX/CP_Art_264.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IX/CP_Art_263.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IX/Capitulo IX - De los daños.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IV/CP_Art_244.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IX",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IV/Capitulo IV - Del robo y hurto de uso de vehiculos.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo III/CP_Art_243.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo IV",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo III/Capitulo III - De la extorsion.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/CP_Art_242.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo III",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/Untitled",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/CP_Art_241.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/CP_Art_240.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/CP_Art_239.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/CP_Art_238.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/CP_Art_237.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo I/CP_Art_236.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo I/CP_Art_235.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo I/CP_Art_234.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo I/Capitulo I - De los hurtos.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II/Capitulo II - De los robos.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo II",
-    "Codigo penal/Libro II/Titulo XIII/Titulo XIII - Delitos contra el patrimonio y contra el orden socioeconómico.md",
-    "Codigo penal/Libro II/Titulo XIII/Capitulo I",
-    "Codigo penal/Libro II/Titulo VI/Capitulo III/CP_Art_172.md",
-    "Codigo penal/Libro II/Titulo VI/Capitulo III",
-    "Codigo penal/Libro II/Titulo VI/Capitulo II",
-    "Codigo penal/Libro II/Titulo VI/Capitulo I",
+    "Cuestionarios/cuestionario FCS.md",
+    "Excalidraw/Penas.excalidraw.md",
+    "MIX preguntas.md",
+    "Lepar.canvas",
+    "Excalidraw/Drawing 2024-05-01 15.47.43.excalidraw.md",
     "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
-    "Constitucion/constitucion.canvas",
     "Ley bases 7-85.canvas",
+    "Fuerzas y Cuerpos de seguridad 2-86/Ley Organica de Cuerpos y fuerzas de seguridad 2-86.md",
+    "Constitucion/Titulo VI/CE_Art_126_Policia_Judicial.md",
+    "Constitucion/Titulo VII/Titulo VII - Economia y Hacienda.md",
+    "Constitucion/constitucion.canvas",
+    "Seguridad ciudadana/Capitulo I/SC_Art_1_objeto.md",
+    "Seguridad ciudadana/Capitulo I/Capitulo I - Disposiciones generales.md",
+    "Seguridad ciudadana/L.O. Seguridad ciudadana 4-2015.md",
+    "Coordinacion policias locales.canvas",
+    "Drogas.canvas",
+    "Trafico/LSV/matcher definiciones.md",
+    "meditacion.md",
+    "Codigo penal/Libro I/Titulo I/Capitulo I/Capitulo I - De los delitos.md",
+    "Codigo penal/Libro II/Titulo X/Capitulo I/CP_Art_197.md",
+    "Codigo penal/Libro II/Titulo VIII/Titulo VIII - Delitos contra la libertad sexuale.md",
+    "Patrones de nombres.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/Art. 54.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/Art. 53.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/Art. 52.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/Art. 51.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV/Titulo IV - de la colaboracion y cordinacion entre el estado y las CCAA.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV/Capitulo 3º/FCS_Art_50.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV/Capitulo 3º/FCS_Art_49.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV/Capitulo 3º/FCS_Art_48.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV/Capitulo 2º/FCS_Art_47.md",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo IV/Capitulo 1º/FCS_Art_46.md",
+    "Preguntas merino.canvas",
+    "Bloque II",
+    "Bloque I",
+    "Codigo Civil",
+    "Proteccion Civil.canvas",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo II/Capitulo 4º/src/Pasted image 20240327090542.png",
+    "Fuerzas y Cuerpos de seguridad 2-86/Titulo II/Capitulo 4º/src",
+    "Codigo penal/Libro II/Titulo XX/Capitulo VIII",
+    "Codigo penal/Libro II/Titulo XX/Capitulo VI",
+    "Codigo penal/Libro II/Titulo XX/Capitulo V",
+    "Codigo penal/Libro II/Titulo XX/Capitulo IV",
+    "Codigo penal/Libro II/Titulo XX/Capitulo III",
+    "Codigo penal/Libro II/Titulo XX/Capitulo II",
     "Apps/obsidian-test/src/typescript.svg",
     "Apps/obsidian-test/public/vite.svg",
-    "Drogas.canvas",
     "Excalidraw/src/Pasted Image 20240312125857_577.png",
     "Trafico/ITV/ITV.canvas",
     "Armas/Armas.canvas",
-    "Trafico/Transporte/Transporte menores.canvas",
-    "Preguntas merino.canvas",
-    "Trafico/SOA/SOA - Seguro Obligatorio.canvas",
     "Excalidraw/src/Pasted Image 20240312125912_594.png",
     "Excalidraw/src/Pasted Image 20240312125857_608.png",
-    "Coordinacion policias locales.canvas",
     "Codigo penal/src/Pasted image 20240304171833.png",
     "src/Pasted image 20240229174939.png",
     "src/Pasted image 20240229175010.png",
-    "src/Pasted image 20240229174954.png",
-    "Constitucion/src/Seehund11cele4_edit.jpg"
+    "src/Pasted image 20240229174954.png"
   ]
 }

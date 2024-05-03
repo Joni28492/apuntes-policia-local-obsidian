@@ -1,0 +1,3 @@
+Cuando de acuerdo con lo establecido en el artículo 31 bis una persona jurídica sea responsable de los delitos recogidos en los artículos anteriores de este Capítulo, se le impondrá una pena de multa de uno a tres años, o del doble al quíntuplo del valor de las sustancias y productos a que se refieren los artículos 359 y siguientes, o del beneficio que se hubiera obtenido o podido obtener, aplicándose la cantidad que resulte más elevada.
+
+Atendidas las reglas establecidas en el artículo 66 bis, los jueces y tribunales podrán asimismo imponer las penas recogidas en las letras b) a g) del apartado 7 del artículo 33.

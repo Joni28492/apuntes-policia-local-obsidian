@@ -1,0 +1,1 @@
+La autoridad o funcionario público que, en provecho propio o de un tercero, admitiera, por sí o por persona interpuesta, dádiva o regalo que le fueren ofrecidos en consideración a su cargo o función, incurrirá en la pena de prisión de seis meses a un año y suspensión de empleo y cargo público de uno a tres años

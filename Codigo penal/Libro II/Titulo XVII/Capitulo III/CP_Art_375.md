@@ -1,0 +1,1 @@
+Las condenas de jueces o tribunales extranjeros por delitos de la misma naturaleza que los previstos en los artículos 361 al 372 de este Capítulo producirán los efectos de reincidencia, salvo que el antecedente penal haya sido cancelado o pueda serlo con arreglo al Derecho español.

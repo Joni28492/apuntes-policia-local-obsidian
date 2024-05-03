@@ -1,0 +1,6 @@
+La autoridad o funcionario público que, abusando de su cargo, cometiere algún delito de estafa o de fraude de prestaciones del Sistema de Seguridad Social del artículo 307 ter, incurrirá en las penas respectivamente señaladas a éstos, en su mitad superior, pudiéndose llegar hasta la superior en grado, e inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de tres a nueve años, salvo que los hechos estén castigados con una pena más grave en algún otro precepto de este Código
+
+
+##### Artículo 438 bis.
+
+La autoridad que, durante el desempeño de su función o cargo y hasta cinco años después de haber cesado en ellos, hubiera obtenido un incremento patrimonial o una cancelación de obligaciones o deudas por un valor superior a 250.000 euros respecto a sus ingresos acreditados, y se negara abiertamente a dar el debido cumplimiento a los requerimientos de los órganos competentes destinados a comprobar su justificación, será castigada con las penas de prisión de seis meses a tres años, multa del tanto al triplo del beneficio obtenido, e inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de dos a siete años.

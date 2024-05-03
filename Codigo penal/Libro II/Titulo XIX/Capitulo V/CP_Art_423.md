@@ -1,0 +1,1 @@
+Lo dispuesto en los artículos precedentes será igualmente aplicable a los jurados y árbitros, nacionales o internacionales, así como a mediadores, peritos, administradores o interventores designados judicialmente, administradores concursales o a cualesquiera personas que participen en el ejercicio de la función pública

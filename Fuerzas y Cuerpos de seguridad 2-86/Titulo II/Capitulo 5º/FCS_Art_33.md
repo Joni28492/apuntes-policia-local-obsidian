@@ -1,0 +1,1 @@
+Los funcionarios adscritos a las Unidades de Policía Judicial desempeñarán esa función con carácter exclusivo, sin perjuicio de que puedan desarrollar también las misiones de prevención de la delincuencia y demás que se les encomienden, cuando las circunstancias lo requieran, de entre las correspondientes a las Fuerzas y Cuerpos de Seguridad del Estado

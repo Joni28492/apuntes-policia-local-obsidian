@@ -1,0 +1,3 @@
+1. Los funcionarios de las Unidades de Policía Judicial no podrán ser removidos o apartados de la investigación concreta que se les hubiera encomendado, hasta que finalice la misma o la fase del procedimiento judicial que la originara, si no es por decisión o con la autorización del Juez o Fiscal competente.
+
+2. En las diligencias o actuaciones que lleven a cabo, por encargo y bajo la supervisión de los Jueces, Tribunales o Fiscales competentes de lo Penal, los funcionarios integrantes de las Unidades de Policía Judicial tendrán el carácter de comisionados de dichos Jueces, Tribunales y Fiscales, y podrán requerir el auxilio necesario de las Autoridades y, en su caso, de los particulares.

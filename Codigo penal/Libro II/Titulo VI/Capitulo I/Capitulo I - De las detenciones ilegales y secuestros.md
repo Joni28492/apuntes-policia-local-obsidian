@@ -1,0 +1,7 @@
+[[CP_Art_163_detencion_ilegal]]
+[[CP_Art_164_secuestro]]
+[[CP_Art_165_simulacion_funcionario]]
+[[CP_Art_166]]
+[[CP_Art_167]]
+[[CP_Art_167]]
+[[CP_Art_168]]

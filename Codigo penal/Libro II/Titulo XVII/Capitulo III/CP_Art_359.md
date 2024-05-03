@@ -1,0 +1,1 @@
+El que, sin hallarse debidamente autorizado, elabore sustancias nocivas para la salud o productos químicos que puedan causar estragos, o los despache o suministre, o comercie con ellos, será castigado con la pena de prisión de seis meses a tres años y multa de seis a doce meses, e inhabilitación especial para profesión o industria por tiempo de seis meses a dos años.

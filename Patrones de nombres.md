@@ -5,9 +5,16 @@ Codigo Penal CP_Art_xx_nombre?
 LSV_Art_xx_nombre?
 RGC_Art_xx_nombre?
 FCS_Art_xx_nombre?
-ADMIN_Art_xx_nombre?
+LPAC_Art_xx_nombre? procedimiento administrativo
+CC_Art_xx_nombre?  codigo civil
 
 
 
-todo
-de las amenazas
+_TODO
+_
+Lepar
+Animales
+Armas
+Constitucion
+Haciendas Locales
+Estatuto empleado publico

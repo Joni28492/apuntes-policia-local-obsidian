@@ -1,0 +1,3 @@
+La Policía Judicial constituye una función cuya especialización se cursará en los Centros de Formación y Perfeccionamiento de los miembros de las Fuerzas y Cuerpos de Seguridad del Estado, con participación de miembros de la Judicatura y del Ministerio Fiscal, o, complementariamente, en el Centro de Estudios Judiciales.
+
+La posesión del diploma correspondiente será requisito necesario para ocupar puestos en las Unidades de Policía Judicial que se constituyan.

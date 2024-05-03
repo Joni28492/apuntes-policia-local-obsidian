@@ -1,0 +1,3 @@
+Los cuerpos de policía de las comunidades autónomas sólo podrán actuar en el ámbito territorial de la comunidad autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las autoridades estatales.
+
+No obstante, cuando ejerzan funciones de protección de autoridades públicas de la comunidad autónoma, podrán actuar fuera del ámbito territorial respectivo, previa autorización del Ministerio del Interior y, cuando proceda, comunicación al órgano de gobierno de la comunidad autónoma correspondiente, con las condiciones y requisitos que se determinen reglamentariamente.

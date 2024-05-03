@@ -1,0 +1,5 @@
+Los que, ofreciéndose a realizar las conductas descritas en los dos artículos anteriores, solicitaren de terceros dádivas, presentes o cualquier otra remuneración, o aceptaren ofrecimiento o promesa, serán castigados con la pena de prisión de seis meses a un año. Si el delito fuere cometido por autoridad o funcionario público se le impondrá, además, la pena de inhabilitación especial para cargo o empleo público y para el ejercicio del derecho de sufragio pasivo por tiempo de uno a cuatro años.
+
+Cuando de acuerdo con lo establecido en el artículo 31 bis una persona jurídica sea responsable de los delitos recogidos en este Capítulo, se le impondrá la pena de multa de seis meses a dos años.
+
+Atendidas las reglas establecidas en el artículo 66 bis, los jueces y tribunales podrán asimismo imponer las penas recogidas en las letras b) a g) del apartado 7 del artículo 33.

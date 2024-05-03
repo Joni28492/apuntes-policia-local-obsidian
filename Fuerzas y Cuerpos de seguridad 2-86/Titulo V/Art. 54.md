@@ -1,0 +1,3 @@
+1. En los municipios que tengan Cuerpo de Policía propio, podrá constituirse una Junta Local de Seguridad, que será el órgano competente para establecer las formas y procedimientos de colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad en su ámbito territorial.
+
+2. La constitución de dichas Juntas y su composición se determinará reglamentariamente. La presidencia corresponderá al Alcalde, salvo que concurriera a sus sesiones el Gobernador civil de la provincia, en cuyo caso, la presidencia será compartida con éste.

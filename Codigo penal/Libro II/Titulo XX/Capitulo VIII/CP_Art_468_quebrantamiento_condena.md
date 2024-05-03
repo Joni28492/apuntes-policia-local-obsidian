@@ -1,0 +1,6 @@
+1. Los que quebrantaren su condena, medida de seguridad, prisión, medida cautelar, conducción o custodia serán castigados con la pena de prisión de seis meses a un año si estuvieran privados de libertad, y con la pena de multa de doce a veinticuatro meses en los demás casos.
+
+2. Se impondrá en todo caso la pena de prisión de seis meses a un año a los que quebrantaren una pena de las contempladas en el artículo 48 de este Código o una medida cautelar o de seguridad de la misma naturaleza impuesta en procesos criminales en los que el ofendido sea alguna de las personas a las que se refiere el artículo 173.2, así como a aquellos que quebrantaren la medida de libertad vigilada.
+
+3. Los que inutilicen o perturben el funcionamiento normal de los dispositivos técnicos que hubieran sido dispuestos para controlar el cumplimiento de penas, medidas de seguridad o medidas cautelares, no los lleven consigo u omitan las medidas exigibles para mantener su correcto estado de funcionamiento, serán castigados con una pena de multa de seis a doce meses.
+4. 

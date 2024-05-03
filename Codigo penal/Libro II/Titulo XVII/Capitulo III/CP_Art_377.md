@@ -1,0 +1,1 @@
+Para la determinación de la cuantía de las multas que se impongan en aplicación de los artículos 368 al 372, el valor de la droga objeto del delito o de los géneros o efectos intervenidos será el precio final del producto o, en su caso, la recompensa o ganancia obtenida por el reo, o que hubiera podido obtener.

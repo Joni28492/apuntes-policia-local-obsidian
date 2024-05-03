@@ -1,0 +1,3 @@
+1. Será castigado con las penas de prisión de dos a cinco años, multa de doce a veinticuatro meses y privación del derecho a conducir vehículos a motor y ciclomotores durante un período de seis a diez años el que, con manifiesto desprecio por la vida de los demás, realizare la conducta descrita en el artículo anterior.
+
+2. Cuando no se hubiere puesto en concreto peligro la vida o la integridad de las personas, las penas serán de prisión de uno a dos años, multa de seis a doce meses y privación del derecho a conducir vehículos a motor y ciclomotores por el tiempo previsto en el párrafo anterior.

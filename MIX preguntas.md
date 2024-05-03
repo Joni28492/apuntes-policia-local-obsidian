@@ -15,8 +15,8 @@
 ---
 ### Art 57 constitucion
 La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida
-- siempre la línea anterior a las posteriores
-- en la misma línea, el grado más próximo al más remoto
+- siempre la ***línea anterior a las posteriores***
+- en la misma línea, el ***grado más próximo al más remoto***
 - en el mismo grado, el varón a la mujer,
 - y en el mismo sexo, la persona de más edad a la de menos
 ---

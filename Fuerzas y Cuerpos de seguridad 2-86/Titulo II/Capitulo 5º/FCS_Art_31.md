@@ -1,0 +1,3 @@
+1. En el cumplimiento de sus funciones, los funcionarios adscritos a Unidades de Policía Judicial dependen orgánicamente del Ministerio del Interior y funcionalmente de los Jueces, Tribunales o Ministerio Fiscal que estén conociendo del asunto objeto de su investigación.
+
+2. Los Jueces o Presidentes de los respectivos órganos del orden jurisdiccional penal, así como los Fiscales Jefes podrán solicitar la intervención en una investigación de funcionarios o medios adscritos a Unidades orgánicas de Policía Judicial por conducto del Presidente del Tribunal Supremo o de los Presidentes de los Tribunales Superiores de Justicia o del Fiscal general del Estado, respectivamente.

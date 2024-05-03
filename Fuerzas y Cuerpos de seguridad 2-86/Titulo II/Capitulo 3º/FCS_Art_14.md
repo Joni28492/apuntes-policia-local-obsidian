@@ -1,0 +1,5 @@
+1. El Ministerio del Interior dispondrá todo lo concerniente a servicios de la Guardia Civil relacionados con la seguridad ciudadana y demás competencias atribuidas por esta Ley, así como a sus retribuciones, destinos, acuartelamientos y material.
+
+2. Conjuntamente, los Ministros de Defensa e Interior dispondrán todo lo referente a la selección, formación, perfeccionamiento, armamento y despliegue territorial, y propondrán al Gobierno el nombramiento del titular de la Dirección General de la Guardia Civil, así como la normativa reguladora del voluntariado especial para la prestación del servicio militar en la misma.
+
+3. El Ministro de Defensa dispondrá lo concerniente al régimen de ascensos y situaciones del personal, así como a las misiones de carácter militar que se encomienden a la Guardia Civil, ejerciendo, respecto al voluntariado especial para la prestación del servicio militar en la misma las competencias que normativamente le correspondan.

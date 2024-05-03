@@ -1,0 +1,1 @@
+A los efectos de este capítulo se entenderán funcionarios públicos los determinados por los artículos 24 y 427

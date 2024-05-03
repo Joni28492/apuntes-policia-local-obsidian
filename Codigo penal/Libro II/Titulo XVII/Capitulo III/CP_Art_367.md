@@ -1,0 +1,1 @@
+Si los hechos previstos en todos los artículos anteriores fueran realizados por imprudencia grave, se impondrán, respectivamente, las penas inferiores en grado.

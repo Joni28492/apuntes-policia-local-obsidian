@@ -1,0 +1,3 @@
+1. El que condujere un vehículo a motor o un ciclomotor con temeridad manifiesta y pusiere en concreto peligro la vida o la integridad de las personas será castigado con las penas de prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años.
+
+2. A los efectos del presente precepto se reputará manifiestamente temeraria la conducción en la que concurrieren las circunstancias previstas en el apartado primero y en el inciso segundo del apartado segundo del artículo anterior.

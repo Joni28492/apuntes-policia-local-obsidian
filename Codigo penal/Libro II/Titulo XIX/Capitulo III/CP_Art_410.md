@@ -1,0 +1,3 @@
+1. Las autoridades o funcionarios públicos que se negaren abiertamente a dar el debido cumplimiento a resoluciones judiciales, decisiones u órdenes de la autoridad superior, dictadas dentro del ámbito de su respectiva competencia y revestidas de las formalidades legales, incurrirán en la pena de multa de tres a doce meses e inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años.
+
+2. No obstante lo dispuesto en el apartado anterior, no incurrirán en responsabilidad criminal las autoridades o funcionarios por no dar cumplimiento a un mandato que constituya una infracción manifiesta, clara y terminante de un precepto de Ley o de cualquier otra disposición general.

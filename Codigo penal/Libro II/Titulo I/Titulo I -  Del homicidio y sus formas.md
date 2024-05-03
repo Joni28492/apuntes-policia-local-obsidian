@@ -1,3 +1,6 @@
 [[CP_Art_138_Homicidio]]
 [[CP_Art_139_Asesinato]]
 [[CP_Art_140]]
+[[CP_Art_141]]
+[[CP_Art_142]]
+[[CP_Art_143_induccion_al_suicidio]]

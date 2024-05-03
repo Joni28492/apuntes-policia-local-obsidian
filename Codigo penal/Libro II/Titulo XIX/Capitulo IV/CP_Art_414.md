@@ -1,0 +1,3 @@
+1. A la autoridad o funcionario público que, por razón de su cargo, tenga encomendada la custodia de documentos respecto de los que la autoridad competente haya restringido el acceso, y que a sabiendas destruya o inutilice los medios puestos para impedir ese acceso o consienta su destrucción o inutilización, incurrirá en la pena de prisión de seis meses a un año o multa de seis a veinticuatro meses y, en cualquier caso, inhabilitación especial para empleo o cargo público por tiempo de uno a tres años.
+
+2. El particular que destruyere o inutilizare los medios a que se refiere el apartado anterior, será castigado con la pena de multa de seis a dieciocho meses.

@@ -1,0 +1,1 @@
+Las penas señaladas en los artículos precedentes se impondrán también cuando la dádiva, favor o retribución se recibiere o solicitare por la autoridad o funcionario público, en sus respectivos casos, como recompensa por la conducta descrita en dichos artículos

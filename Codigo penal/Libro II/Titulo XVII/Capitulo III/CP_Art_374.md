@@ -1,0 +1,5 @@
+En los delitos previstos en el párrafo segundo del apartado 1 del artículo 301 y en los artículos 368 a 372, además de las penas que corresponda imponer por el delito cometido, serán objeto de decomiso las drogas tóxicas, estupefacientes o sustancias psicotrópicas, los equipos, materiales y sustancias a que se refiere el artículo 371, así como los bienes, medios, instrumentos y ganancias con sujeción a lo dispuesto en los artículos 127 a 128 y a las siguientes normas especiales:
+
+1.ª Una vez firme la sentencia, se procederá a la destrucción de las muestras que se hubieran apartado, o a la destrucción de la totalidad de lo incautado, en el caso de que el órgano judicial competente hubiera ordenado su conservación.
+
+2.ª Los bienes, medios, instrumentos y ganancias definitivamente decomisados por sentencia, que no podrán ser aplicados a la satisfacción de las responsabilidades civiles derivadas del delito ni de las costas procesales, serán adjudicados íntegramente al Estado.

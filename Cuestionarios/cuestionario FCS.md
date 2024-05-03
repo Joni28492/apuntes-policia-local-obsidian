@@ -13,7 +13,7 @@ los respectivos Estatutos y en el marco de la LO 2/1986?
 
 ¿Por quién se ejercerá el mantenimiento de la seguridad pública?
 - por las coorporaciones locales
-- 
+
 ¿A través de quién se ejercerá el mantenimiento de la seguridad pública?
 - Por las distintas administraciones pública a través de los FFCCSS
 
@@ -28,7 +28,8 @@ en la investigación y persecución de los delitos en los términos previstos le
  ¿Quiénes tienen especial obligación de auxiliar o colaborar en todo momento con las Fuerzas y
 Cuerpos de Seguridad?
  - las personas y entidades que ejerzan funciones de vigilancia, seguridad o custodia a personas, bienes o servicios Art 4.1
- - 
+
+
  ¿Cuáles son los 6 epígrafes en los que se estructuran los Principios Básicos de Actuación?
  - adecuación ordenamiento jurídico 
  - relaciones con la comunidad 

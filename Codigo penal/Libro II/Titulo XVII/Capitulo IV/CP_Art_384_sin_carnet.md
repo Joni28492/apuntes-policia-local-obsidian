@@ -1,0 +1,3 @@
+El que condujere un vehículo de motor o ciclomotor en los casos de pérdida de vigencia del permiso o licencia por pérdida total de los puntos asignados legalmente, será castigado con la pena de prisión de tres a seis meses o con la de multa de doce a veinticuatro meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días.
+
+La misma pena se impondrá al que realizare la conducción tras haber sido privado cautelar o definitivamente del permiso o licencia por decisión judicial y al que condujere un vehículo de motor o ciclomotor sin haber obtenido nunca permiso o licencia de conducción.

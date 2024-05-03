@@ -1,0 +1,1 @@
+El Juez o Magistrado que se negase a juzgar, sin alegar causa legal, o so pretexto de oscuridad, insuficiencia o silencio de la Ley, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de seis meses a cuatro años.

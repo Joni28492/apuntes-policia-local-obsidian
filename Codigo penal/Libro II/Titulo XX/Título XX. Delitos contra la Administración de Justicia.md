@@ -1,0 +1,7 @@
+[[Capitulo I - De la prevaricación]]
+[[Capitulo II - De la omisión de los deberes de impedir delitos o de promover su persecución]]
+[[Capitulo III - Del encubrimiento]]
+[[Capitulo IV - De la realización arbitraria del propio derecho]]
+[[Capitulo V - De la acusación y denuncia falsas y de la simulación de delitos]]
+[[Capitulo VI - Del Falso testimonio]]
+[[Capitulo VIII - Del quebrantamiento de condena]]

@@ -1,0 +1,3 @@
+1. El Ministerio del Interior organizará con funcionarios de las Fuerzas y Cuerpos de Seguridad del Estado que cuenten con la adecuada formación especializada, Unidades de Policía Judicial, atendiendo a criterios territoriales y de especialización delictual, a las que corresponderá esta función con carácter permanente y especial.
+
+2. Las referidas Unidades orgánicas de Policía Judicial podrán adscribirse, en todo o en parte, por el Ministerio del Interior, oído el Consejo General del Poder Judicial, a determinados Juzgados y Tribunales. De igual manera podrán adscribirse al Ministerio Fiscal, oído el Fiscal General del Estado.

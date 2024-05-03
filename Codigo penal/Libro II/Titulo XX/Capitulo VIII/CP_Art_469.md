@@ -1,0 +1,1 @@
+Los sentenciados o presos que se fugaren del lugar en que estén recluidos, haciendo uso de violencia o intimidación en las personas o fuerza en las cosas o tomando parte en motín, serán castigados con la pena de prisión de seis meses a cuatro años

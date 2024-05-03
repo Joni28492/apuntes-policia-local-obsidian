@@ -1,0 +1,3 @@
+1. A la autoridad o funcionario público que abandonare su destino con el propósito de no impedir o no perseguir cualquiera de los delitos comprendidos en los Títulos XXI, XXII, XXIII y XXIV se le castigará con la pena de prisión de uno a cuatro años e inhabilitación absoluta para empleo o cargo público por tiempo de seis a diez años. Si hubiera realizado el abandono para no impedir o no perseguir cualquier otro delito, se le impondrá la pena de inhabilitación especial para empleo o cargo público por tiempo de uno a tres años.
+
+2. Las mismas penas se impondrán, respectivamente, cuando el abandono tenga por objeto no ejecutar las penas correspondientes a estos delitos impuestas por la autoridad judicial competente.

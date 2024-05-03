@@ -1,0 +1,1 @@
+Cuando el soborno mediare en causa criminal a favor del reo por parte de su cónyuge u otra persona a la que se halle ligado de forma estable por análoga relación de afectividad, o de algún ascendiente, descendiente o hermano por naturaleza, por adopción o afines en los mismos grados, se impondrá al sobornador la pena de prisión de seis meses a un año

@@ -1,0 +1,1 @@
+Quedará exento de pena el que, habiendo prestado un falso testimonio en causa criminal, se retracte en tiempo y forma, manifestando la verdad para que surta efecto antes de que se dicte sentencia en el proceso de que se trate. Si a consecuencia del falso testimonio, se hubiese producido la privación de libertad, se impondrán las penas correspondientes inferiores en grado.

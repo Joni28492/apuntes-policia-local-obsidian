@@ -1,0 +1,1 @@
+La provocación, la conspiración y la proposición para cometer los delitos previstos en los artículos 368 al 372, se castigarán con la pena inferior en uno a dos grados a la que corresponde, respectivamente, a los hechos previstos en los preceptos anteriores

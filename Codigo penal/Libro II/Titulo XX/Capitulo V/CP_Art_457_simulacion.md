@@ -1,0 +1,1 @@
+El que, ante alguno de los funcionarios señalados en el artículo anterior, simulare ser responsable o víctima de una infracción penal o denunciare una inexistente, provocando actuaciones procesales, será castigado con la multa de seis a doce meses

@@ -1,0 +1,3 @@
+Si los hechos previstos en este capítulo fueran realizados por empresario, intermediario en el sector financiero, facultativo, funcionario público, trabajador social, docente o educador, en el ejercicio de su cargo, profesión u oficio, se le impondrá, además de la pena correspondiente, la de inhabilitación especial para empleo o cargo público, profesión u oficio, industria o comercio, de tres a diez años. Se impondrá la pena de inhabilitación absoluta de diez a veinte años cuando los referidos hechos fueren realizados por autoridad o agente de la misma, en el ejercicio de su cargo.
+
+A tal efecto, se entiende que son facultativos los médicos, psicólogos, las personas en posesión de título sanitario, los veterinarios, los farmacéuticos y sus dependientes.

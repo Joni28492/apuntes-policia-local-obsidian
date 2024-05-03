@@ -1,0 +1,1 @@
+Será castigado con la pena de prisión de dos a seis años el que envenenare o adulterare con sustancias infecciosas, u otras que puedan ser gravemente nocivas para la salud, las aguas potables o las sustancias alimenticias destinadas al uso público o al consumo de una colectividad de personas.

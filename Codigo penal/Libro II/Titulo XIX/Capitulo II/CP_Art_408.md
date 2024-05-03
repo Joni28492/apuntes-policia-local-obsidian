@@ -1,0 +1,1 @@
+La autoridad o funcionario que, faltando a la obligación de su cargo, dejare intencionadamente de promover la persecución de los delitos de que tenga noticia o de sus responsables, incurrirá en la pena de inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años.
