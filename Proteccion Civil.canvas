@@ -6,7 +6,7 @@
 		{"id":"3a49aab2210fc215","type":"text","text":"Planes Especiales","x":-700,"y":306,"width":250,"height":60},
 		{"id":"f9771f65063ad1cd","type":"text","text":"Plan Estatal General","x":-1220,"y":306,"width":250,"height":60},
 		{"id":"d2408f5976230322","type":"text","text":"Planes de autoproteccion","x":-440,"y":306,"width":250,"height":60},
-		{"id":"5e1d7f1805dd66fc","type":"text","text":"## Art 2 - Definiciones\n\n- Peligro\n- Vulnerabilidad\n- Amenaza\n- Riesgo\n- Emergencia de Proteccion Civil\n- catastrofe\n- servcios esenciales","x":-62,"y":233,"width":482,"height":407}
+		{"id":"5e1d7f1805dd66fc","type":"text","text":"## Art 2 - Definiciones\n\n- Peligro\n- Vulnerabilidad\n- Amenaza\n- Riesgo\n- Emergencia de Proteccion Civil\n- catastrofe\n- servcios esenciales","x":-62,"y":233,"width":482,"height":287}
 	],
 	"edges":[
 		{"id":"95ff4e211bd50975","fromNode":"c49e7a49206a6cc4","fromSide":"bottom","toNode":"ce6987ce1afdd088","toSide":"top"},

@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "128077bea07141cc",
+        "id": "a018f3f31cd6f8f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c0b249a5528a7b71",
+            "id": "9ee3bd5da24b031e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Normativa autonomica.canvas",
-                "viewState": {
-                  "x": -1308.5059630934004,
-                  "y": 631.4338601604976,
-                  "zoom": -0.6666666666666667
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normativa autonomica.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normativa autonomica.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Normativa autonomica.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,15 +144,26 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "c0b249a5528a7b71",
+  "active": "9ee3bd5da24b031e",
   "lastOpenFiles": [
+    "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_171.md",
+    "Tema_7_el_acto_administrativo.canvas",
+    "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md",
+    "Excalidraw/Penas.excalidraw.md",
+    "Untitled.md",
+    "Zona de pruebas.md",
+    "Untitled Kanban.md",
+    "Tema_6_derecho_administrativo.canvas",
+    "LPA-Administrativo-video opositatest.canvas",
+    "Proteccion Civil.canvas",
     "MIX preguntas.md",
-    "Normativa autonomica.canvas",
-    "Preguntas merino.canvas",
-    "CP_Tema_4.canvas",
-    "Estatuto autonomia 7-81.canvas",
-    "Ley bases 7-85.canvas",
     "CP_Tema_3.canvas",
+    "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_169.md",
+    "CP_Tema_4.canvas",
+    "Lepar.canvas",
+    "Ley bases 7-85.canvas",
+    "Estatuto autonomia 7-81.canvas",
+    "Normativa autonomica.canvas",
     "Codigo penal/Libro II/Titulo VI/Capitulo I/CP_Art_167.md",
     "Codigo penal/Libro II/Titulo III/CP_Art_152_imprudencias.md",
     "Codigo penal/Libro II/Titulo VII/CP_Art_173.md",
@@ -179,27 +179,15 @@
     "Codigo penal/Libro II/Titulo VII/CP_Art_177.md",
     "Codigo penal/Libro II/Titulo VII/CP_Art_176.md",
     "Codigo penal/Libro II/Titulo VII/CP_Art_175.md",
-    "FFCCSS.canvas",
     "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 2º/FCS_Art_5.md",
     "src/1570392041.jpg",
     "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/Titulo V - de las Policias Locales.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/FCS_Art_53.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/FCS_Art_51.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/FCS_Art_52.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/FCS_Art_54.md",
     "src/3d6b5292834501be92afa78f6b1c3fa7000050.png",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo III/Capitulo 2º/FCS_Art_38.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo II/Capitulo 2º/FCS_Art_11.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo II/Capitulo 2º/FCS_Art_12.md",
     "src/Badge_of_the_National_Police_Corps_of_Spain.svg.png",
     "src/cropped-cropped-logo-especialidades-guardia-civil.webp",
     "src/200_azul.jpg",
     "src/Badge_of_the_National_Police_Corps_of_Spain-748x1024.jpg",
     "src",
-    "Lepar.canvas",
-    "Drogas.canvas",
-    "Proteccion Civil.canvas",
-    "Excalidraw/Penas.excalidraw.md",
     "Bloque II",
     "Bloque I",
     "Codigo Civil",

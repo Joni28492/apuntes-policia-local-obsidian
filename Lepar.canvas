@@ -1,22 +1,23 @@
 {
 	"nodes":[
-		{"id":"4ada6a937b0d072d","x":-420,"y":-220,"width":280,"height":60,"type":"text","text":"### LEPAR 8/2002, 21 Octubre"},
-		{"id":"9bc3da38d257b172","x":-720,"y":160,"width":114,"height":56,"type":"text","text":"Decretos"},
-		{"id":"deef395a410259f7","x":-265,"y":20,"width":250,"height":60,"type":"text","text":"90/2004 11 Noviembre"},
-		{"id":"a6e1f782424425ea","x":-265,"y":158,"width":250,"height":60,"type":"text","text":"91/2004, 11 Noviembre"},
-		{"id":"91207033603a3e33","x":-265,"y":280,"width":250,"height":60,"type":"text","text":"38/2007, 12 abril"},
-		{"id":"b32bbdfd054f90b6","x":-265,"y":480,"width":250,"height":60,"type":"text","text":"100/2006, 6 Septiembre"},
-		{"id":"ee1a6ec8a487acde","x":-480,"y":-505,"width":250,"height":60,"type":"text","text":"Licencias\n"},
-		{"id":"67ba5c7369b9a445","x":-82,"y":-420,"width":250,"height":100,"type":"text","text":"instalaciones\n\n30 dias"},
-		{"id":"739feecacb352034","x":-82,"y":-639,"width":250,"height":134,"type":"text","text":"- establecimientos\n- locales\n\n3 Meses"},
-		{"id":"606a51b420c63992","x":409,"y":-639,"width":351,"height":279,"type":"text","text":"- Nombre, DNI o NIF del titular\n- actividad (la del catalogo)\n- denominacion (nombre del local)\n- emplazamiento\n- aforo maximo\n- condiciones o medidas correctoras de obligado cumplimiento"}
+		{"id":"9bc3da38d257b172","type":"text","text":"Decretos","x":-720,"y":160,"width":114,"height":56},
+		{"id":"ee1a6ec8a487acde","type":"text","text":"Licencias\n","x":-480,"y":-505,"width":250,"height":60},
+		{"id":"67ba5c7369b9a445","type":"text","text":"instalaciones\n\n30 dias","x":-82,"y":-420,"width":250,"height":100,"color":"5"},
+		{"id":"739feecacb352034","type":"text","text":"- establecimientos\n- locales\n\n3 Meses","x":-82,"y":-639,"width":250,"height":134,"color":"2"},
+		{"id":"606a51b420c63992","type":"text","text":"- Nombre, DNI o NIF del titular\n- actividad (la del catalogo)\n- denominacion (nombre del local)\n- emplazamiento\n- aforo maximo\n- condiciones o medidas correctoras de obligado cumplimiento","x":460,"y":-784,"width":351,"height":279},
+		{"id":"b32bbdfd054f90b6","type":"text","text":"100/2006, 6 Septiembre","x":-760,"y":500,"width":250,"height":60,"color":"2"},
+		{"id":"91207033603a3e33","type":"text","text":"38/2007, 12 abril","x":-390,"y":500,"width":250,"height":60,"color":"5"},
+		{"id":"deef395a410259f7","type":"text","text":"90/2004 ⏰ 11 Noviembre","x":0,"y":18,"width":250,"height":60,"color":"1"},
+		{"id":"a6e1f782424425ea","type":"text","text":"91/2004, 11 Noviembre","x":0,"y":156,"width":250,"height":60,"color":"4"},
+		{"id":"4ada6a937b0d072d","type":"text","text":"### LEPAR 8/2002, 21 Octubre","x":-700,"y":-220,"width":280,"height":60},
+		{"id":"92e34b3071b7fbe8","x":460,"y":-431,"width":601,"height":509,"color":"2","type":"text","text":"#### Art. 21 Regulacion de los horarios\nLa regulacion de los horarios de apertura y cierre de los establecimientos, locales e instalaciones comprendidos en el ambito de esta ley se determinara reglamentariamente por\n\n*El **Consejo de Gobierno, a porpuesta del consejero competente en materia de seguridad publica, previo dictamen preceptivo del consejo asesor de espectaculos** publicos y actividades recreativas del principado de asturias*\n\ngarantizando en todo caso el derecho al descanso y a la salud teniendo en cuental, al menos, los siguientes extremos:\n- Tipos de espectaculos y actividades\n- Estacion anual\n- distincion entre dias laborables y visperas de festivos o festivos\n- celebracion al aire libre o locales cerrados y condiciones de insonorizacion\n- emplazamiento en zonas residenciales urbanas u hospitalarias\n"}
 	],
 	"edges":[
 		{"id":"834c89b24c5f2de7","fromNode":"4ada6a937b0d072d","fromSide":"bottom","toNode":"9bc3da38d257b172","toSide":"top"},
 		{"id":"07718277094d2bdf","fromNode":"9bc3da38d257b172","fromSide":"right","toNode":"deef395a410259f7","toSide":"left","label":"horarios"},
 		{"id":"dd009100eead56f5","fromNode":"9bc3da38d257b172","fromSide":"right","toNode":"a6e1f782424425ea","toSide":"left","label":"catalogo"},
-		{"id":"f9fd5de2e2667fc1","fromNode":"9bc3da38d257b172","fromSide":"right","toNode":"91207033603a3e33","toSide":"left","label":"c. seguros"},
-		{"id":"2795290595d8837e","fromNode":"9bc3da38d257b172","fromSide":"right","toNode":"b32bbdfd054f90b6","toSide":"left","label":"vigilancia \ny seguridad"},
+		{"id":"f9fd5de2e2667fc1","fromNode":"9bc3da38d257b172","fromSide":"right","toNode":"91207033603a3e33","toSide":"top","label":"c. seguros"},
+		{"id":"2795290595d8837e","fromNode":"9bc3da38d257b172","fromSide":"right","toNode":"b32bbdfd054f90b6","toSide":"top","label":"vigilancia \ny seguridad"},
 		{"id":"359129c3f1c5a182","fromNode":"ee1a6ec8a487acde","fromSide":"right","toNode":"739feecacb352034","toSide":"left"},
 		{"id":"59b5e8ff6391d39e","fromNode":"ee1a6ec8a487acde","fromSide":"right","toNode":"67ba5c7369b9a445","toSide":"left"},
 		{"id":"834373079029f245","fromNode":"739feecacb352034","fromSide":"right","toNode":"606a51b420c63992","toSide":"left"}

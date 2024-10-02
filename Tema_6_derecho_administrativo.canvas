@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"c595c095f9442ffc","type":"text","text":"### LA LEY\n- norma ***juridica general***\n- norma *juridica escrita* ***emanada del Estado***\n- norma *juridica escrita* ***emanada del poder legislativo***","x":-474,"y":-168,"width":534,"height":168,"color":"4"},
+		{"id":"b55d95abf20d14ee","type":"text","text":"##### Tipos","x":-335,"y":88,"width":250,"height":60,"color":"5"},
+		{"id":"39614bddb4c22163","type":"text","text":"- CE\n- L. Organica\n- L. Ordinaria","x":-701,"y":265,"width":261,"height":115,"color":"5"},
+		{"id":"e332a49522eabb5b","type":"text","text":"- Decretos-legislativos\n- decretos-leyes","x":180,"y":295,"width":250,"height":85,"color":"3"},
+		{"id":"bc86196b86289651","x":-134,"y":508,"width":514,"height":432,"color":"2","type":"text","text":"#### Decretos legislativos\n---\n- normativas con fuerza de ley que dicta el gobierno por delegacion expresa del poder legislativo\n- Las CCGG podran deelgar  en el Gobierno la potestad de dictar normas con rango de ley, sobre determinadas materias que no sean las del Art 81 CE (leyes organicas)\n- *de forma expresa, materia concreta y con fijacion del plazo para su ejercicio*\n- no se permite la subdelegacion\n---\n\n\n***Ley de Bases -> Texto Articulado***\n***Leyes ordinarias -> Texto refundido***"},
+		{"id":"b496738ac78afa34","x":454,"y":517,"width":466,"height":243,"color":"1","type":"text","text":"#### Decretos Leyes\n- dictadas por el gobierno en ***casos de extraordinaria necesidad*** y que no pueden afectar a las instituciones basicas del Estado\n- deberan ser sometidos a *votacion en el congraso de los diputados*, si no estuviere reunido , en el plazo de ***30 dias siguientes a su promulgacion***"},
+		{"id":"263940aa253cb514","x":-505,"y":-588,"width":480,"height":320,"color":"6","type":"text","text":"#### Fuentes del derecho administrativo\n- Primacia de la ***LEY*** (todo tipo de ley)\n- Alcance subordinado de la ***costumbre*** (probada y no contraria a la moral)\n- funcion de los ***principios generales***\n---\n- Caracter atribuido a la **Jurisprudencia**"},
+		{"id":"13149bd0256697b9","x":55,"y":-458,"width":250,"height":60,"color":"6","type":"text","text":"## Fuentes"},
+		{"id":"254caed923430510","x":602,"y":-278,"width":293,"height":110,"color":"5","type":"text","text":"- Tratados internacionales\n- Jurisprudencia"},
+		{"id":"84b0caad371dddcf","x":715,"y":-776,"width":340,"height":148,"color":"4","type":"text","text":"- CE\n- L. Organica\n- L. Ordinaria\n- Reglamentos en general (...)"},
+		{"id":"f532c542fc3300b3","x":758,"y":-505,"width":297,"height":107,"color":"3","type":"text","text":"- Costumbre\n- Principios Generales del derecho"},
+		{"id":"a0c6c244486f9668","x":240,"y":-84,"width":518,"height":232,"color":"2","type":"text","text":"### Recursos\n- Recurso de incumplimiento\n- Recurso de anulacion\n- La Excepcion de ilegalidad\n- El recurso de inaccion\n- Cuestion prejudicial"}
+	],
+	"edges":[
+		{"id":"11f56af31fd790cb","fromNode":"c595c095f9442ffc","fromSide":"bottom","toNode":"b55d95abf20d14ee","toSide":"top"},
+		{"id":"d994aa7008b666c3","fromNode":"b55d95abf20d14ee","fromSide":"bottom","toNode":"39614bddb4c22163","toSide":"top","label":"Propiamente dichas"},
+		{"id":"43723fd774a6aa78","fromNode":"b55d95abf20d14ee","fromSide":"bottom","toNode":"e332a49522eabb5b","toSide":"top","label":"disposiciones normativas con fuerza de ley"},
+		{"id":"ff61ba04428fad99","fromNode":"e332a49522eabb5b","fromSide":"bottom","toNode":"bc86196b86289651","toSide":"top"},
+		{"id":"76c8f371e5e11f6d","fromNode":"e332a49522eabb5b","fromSide":"bottom","toNode":"b496738ac78afa34","toSide":"top"},
+		{"id":"73b2e22b51b29a1f","fromNode":"263940aa253cb514","fromSide":"right","toNode":"13149bd0256697b9","toSide":"left"},
+		{"id":"1e1a313868fb5064","fromNode":"13149bd0256697b9","fromSide":"right","toNode":"84b0caad371dddcf","toSide":"left","color":"4","label":"directas"},
+		{"id":"32840e3bb5549dd9","fromNode":"13149bd0256697b9","fromSide":"right","toNode":"254caed923430510","toSide":"left","color":"5","label":"indirectas"},
+		{"id":"64f7439a96a34546","fromNode":"84b0caad371dddcf","fromSide":"bottom","toNode":"f532c542fc3300b3","toSide":"top","label":"directas subsidiarias"}
+	]
+}
