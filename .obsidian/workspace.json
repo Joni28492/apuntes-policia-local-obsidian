@@ -11,11 +11,69 @@
             "id": "9ee3bd5da24b031e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Trafico/ITV/ITV.canvas",
+                "viewState": {
+                  "x": -265.0934012006741,
+                  "y": 230.92568435398948,
+                  "zoom": -0.15235117291651779
+                }
+              }
+            }
+          },
+          {
+            "id": "7c4d8b53c601c425",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Trafico/Transporte/Transporte menores.canvas",
+                "viewState": {
+                  "x": 92.29125643539004,
+                  "y": 79.59521731706965,
+                  "zoom": -0.543145109477094
+                }
+              }
+            }
+          },
+          {
+            "id": "133feebc2fba6420",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/numeracions_normativas_trafico.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "426dfd9559d63447",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8920f9d42e289f80",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Trafico/Transporte/Transporte.canvas",
+                "viewState": {
+                  "x": -781.4922834769965,
+                  "y": -896.7456883550861,
+                  "zoom": -0.42062297726557374
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CP_Art_173",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 441.5,
+    "collapsed": true
   },
   "right": {
     "id": "43db7e5b829785cc",
@@ -81,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md"
+              }
             }
           }
         ]
@@ -144,8 +207,19 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "9ee3bd5da24b031e",
+  "active": "426dfd9559d63447",
   "lastOpenFiles": [
+    "Excalidraw/numeracions_normativas_trafico.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md",
+    "Trafico/ITV/ITV.canvas",
+    "Trafico/Transporte/Transporte menores.canvas",
+    "Trafico/Transporte/Mercancias_perecederas.excalidraw.md",
+    "CP_Tema_4.canvas",
+    "CP_Tema_3.canvas",
+    "Trafico/Transporte/Transporte.canvas",
+    "Trafico/Transporte/Transporte y movilidad sostenible.canvas",
+    "Trafico/Transporte/Transporte Mercancias Perecederas.canvas",
+    "Excalidraw/contencioso_administrativo.excalidraw.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_171.md",
     "Tema_7_el_acto_administrativo.canvas",
     "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md",
@@ -155,15 +229,8 @@
     "Untitled Kanban.md",
     "Tema_6_derecho_administrativo.canvas",
     "LPA-Administrativo-video opositatest.canvas",
-    "Proteccion Civil.canvas",
     "MIX preguntas.md",
-    "CP_Tema_3.canvas",
     "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_169.md",
-    "CP_Tema_4.canvas",
-    "Lepar.canvas",
-    "Ley bases 7-85.canvas",
-    "Estatuto autonomia 7-81.canvas",
-    "Normativa autonomica.canvas",
     "Codigo penal/Libro II/Titulo VI/Capitulo I/CP_Art_167.md",
     "Codigo penal/Libro II/Titulo III/CP_Art_152_imprudencias.md",
     "Codigo penal/Libro II/Titulo VII/CP_Art_173.md",
@@ -178,10 +245,7 @@
     "Codigo penal/Libro II/Titulo VII/CP_Art_174.md",
     "Codigo penal/Libro II/Titulo VII/CP_Art_177.md",
     "Codigo penal/Libro II/Titulo VII/CP_Art_176.md",
-    "Codigo penal/Libro II/Titulo VII/CP_Art_175.md",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo I/Capitulo 2º/FCS_Art_5.md",
     "src/1570392041.jpg",
-    "Fuerzas y Cuerpos de seguridad 2-86/Titulo V/Titulo V - de las Policias Locales.md",
     "src/3d6b5292834501be92afa78f6b1c3fa7000050.png",
     "src/Badge_of_the_National_Police_Corps_of_Spain.svg.png",
     "src/cropped-cropped-logo-especialidades-guardia-civil.webp",

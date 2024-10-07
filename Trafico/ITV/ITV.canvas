@@ -11,7 +11,7 @@
 		{"id":"f28afd000f68fb4c","type":"group","x":58,"y":2680,"width":335,"height":181,"label":"caravanas remolcadas"},
 		{"id":"80c2aca1636bed6c","type":"text","text":"Tipos Inspeciones tecnicas:\n- periodicas\n- de reformas\n- previas a matriculacion\n- requeridas a:\n\t- titular\n\t- arrendatario\n\t- o por cualquiera de los organismos\n- voluntarias\n- accidentes con daños importantes\n- en carretera\n- previas - transporte escolar y de menores\n- vehiculos historicos\n- transporte de productos alimentarios a temperatura regulada o mercancias peligrosas","x":-482,"y":-224,"width":602,"height":464},
 		{"id":"26da186c1dc8a8e8","type":"text","text":"- accidente u otra causa\n- componentes y sistemas de seguridad y de proteccion del medio ambiente que hayan sido  alterados o  modificados\n- cualquiera de los organismos que tenga sospecha\n- por cambio de uso o servicio\n","x":-331,"y":392,"width":351,"height":248},
-		{"id":"6b1f97d3e006e708","type":"text","text":"- recorrido no superior a 30 km en sentido de la marcha y sin subida\n- sentido opuesto sin limitacion","x":-734,"y":467,"width":314,"height":133},
+		{"id":"6b1f97d3e006e708","type":"text","text":"- recorrido no superior a 30 km en sentido de la marcha y sin subida\n- sentido opuesto sin limitacion","x":-734,"y":467,"width":314,"height":133,"color":"2"},
 		{"id":"a7c6e027758174ad","type":"text","text":"Remolques para transporte mercancias","x":-1005,"y":2400,"width":250,"height":60},
 		{"id":"657a1bb0c0a8e538","type":"text","text":"N,O","x":-1440,"y":2160,"width":250,"height":60},
 		{"id":"eddf8fc274c253fe","type":"text","text":"Vehiculos especiales dedicados a obras y servicios y maquinaria automotriz","x":-620,"y":980,"width":299,"height":110},
@@ -49,12 +49,12 @@
 		{"id":"41ad1b1f2f45a0b3","type":"text","text":"### +10 años -semestral","x":129,"y":2443,"width":301,"height":60,"color":"1"},
 		{"id":"08a85939c2507965","type":"text","text":"### Hasta 6 años - exento","x":78,"y":2700,"width":295,"height":61,"color":"4"},
 		{"id":"88bff749f73a9103","type":"text","text":"### +6 años bienal","x":78,"y":2781,"width":250,"height":60,"color":"2"},
+		{"id":"de8b39a0f633bed1","type":"text","text":"O2 (excepto caravanas)","x":-312,"y":2503,"width":250,"height":60},
 		{"id":"9942bb4f19270f9b","type":"text","text":"### de 2 a 6 - Bienal","x":160,"y":1862,"width":250,"height":60,"color":"3"},
 		{"id":"152b044a2d2d618e","type":"text","text":"### hasta 2 años - Exento","x":160,"y":1780,"width":336,"height":52,"color":"4"},
 		{"id":"dc3c7268c1e8a34b","type":"text","text":"### de 6 a 10 - anual ","x":160,"y":1952,"width":250,"height":60,"color":"2"},
 		{"id":"97ef81ede2f4a6ca","type":"text","text":"### +10 - Semestral","x":160,"y":2040,"width":250,"height":60,"color":"1"},
-		{"id":"648427586f310a67","type":"text","text":"Estaciones transformadoras o Circo","x":640,"y":1862,"width":250,"height":60},
-		{"id":"de8b39a0f633bed1","type":"text","text":"O2 (excepto caravanas)","x":-312,"y":2503,"width":250,"height":60}
+		{"id":"648427586f310a67","type":"text","text":"Estaciones transformadoras o Circo","x":640,"y":1862,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"24aee776f624d3ea","fromNode":"80c2aca1636bed6c","fromSide":"bottom","toNode":"26da186c1dc8a8e8","toSide":"top","label":"someterse antes de la fecha"},
