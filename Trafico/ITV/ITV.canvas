@@ -48,7 +48,7 @@
 		{"id":"39e1363dbc4c4423","type":"text","text":"### hasta 10 años anual","x":129,"y":2357,"width":301,"height":56,"color":"2"},
 		{"id":"41ad1b1f2f45a0b3","type":"text","text":"### +10 años -semestral","x":129,"y":2443,"width":301,"height":60,"color":"1"},
 		{"id":"08a85939c2507965","type":"text","text":"### Hasta 6 años - exento","x":78,"y":2700,"width":295,"height":61,"color":"4"},
-		{"id":"88bff749f73a9103","type":"text","text":"### +6 años bienal","x":78,"y":2781,"width":250,"height":60,"color":"2"},
+		{"id":"88bff749f73a9103","type":"text","text":"### +6 años bienal","x":78,"y":2781,"width":250,"height":60,"color":"3"},
 		{"id":"de8b39a0f633bed1","type":"text","text":"O2 (excepto caravanas)","x":-312,"y":2503,"width":250,"height":60},
 		{"id":"9942bb4f19270f9b","type":"text","text":"### de 2 a 6 - Bienal","x":160,"y":1862,"width":250,"height":60,"color":"3"},
 		{"id":"152b044a2d2d618e","type":"text","text":"### hasta 2 años - Exento","x":160,"y":1780,"width":336,"height":52,"color":"4"},
@@ -64,8 +64,8 @@
 		{"id":"17567e262aef8d1d","fromNode":"f08e055cc4e50e57","fromSide":"right","toNode":"eb0a857f40b991a8","toSide":"left"},
 		{"id":"a766878a869e8436","fromNode":"713e1cb55af44620","fromSide":"bottom","toNode":"21f236cc12f95256","toSide":"top"},
 		{"id":"ab43feea0183494d","fromNode":"0a3b2cdff4bf0574","fromSide":"bottom","toNode":"02f05bfbbfd47f8c","toSide":"top"},
-		{"id":"cec242f30ffbaa29","fromNode":"96ca46800826ad92","fromSide":"right","toNode":"68db4984e852de4b","toSide":"left"},
-		{"id":"dac4f4ef727ae896","fromNode":"05e9e007674dec92","fromSide":"right","toNode":"e5e83def9ce57f08","toSide":"left"},
+		{"id":"cec242f30ffbaa29","fromNode":"96ca46800826ad92","fromSide":"right","toNode":"68db4984e852de4b","toSide":"left","color":"5"},
+		{"id":"dac4f4ef727ae896","fromNode":"05e9e007674dec92","fromSide":"right","toNode":"e5e83def9ce57f08","toSide":"left","color":"2"},
 		{"id":"30d7ed8557b040ff","fromNode":"ea75c8c4608759a0","fromSide":"right","toNode":"96ca46800826ad92","toSide":"left","color":"5","label":"- 8 plazas"},
 		{"id":"2080f9f5d6d79556","fromNode":"ea75c8c4608759a0","fromSide":"right","toNode":"05e9e007674dec92","toSide":"left","color":"2","label":"+ 8 plazas"},
 		{"id":"41ba79c3b16ab2ab","fromNode":"b282edde9d14a901","fromSide":"right","toNode":"6cd0ca79c239ffc0","toSide":"left"},
@@ -81,6 +81,7 @@
 		{"id":"08ca0a138490e137","fromNode":"e888c2de3712a828","fromSide":"right","toNode":"a9abc9dab1f69668","toSide":"left","color":"2","label":"+3500kg"},
 		{"id":"e04ecad81e029cc3","fromNode":"657a1bb0c0a8e538","fromSide":"right","toNode":"a7c6e027758174ad","toSide":"left"},
 		{"id":"b7f4280fc95acb8d","fromNode":"a7c6e027758174ad","fromSide":"right","toNode":"0989332c18d59973","toSide":"left","label":"Personas"},
-		{"id":"8581542afcb11846","fromNode":"a7c6e027758174ad","fromSide":"right","toNode":"de8b39a0f633bed1","toSide":"left"}
+		{"id":"8581542afcb11846","fromNode":"a7c6e027758174ad","fromSide":"right","toNode":"de8b39a0f633bed1","toSide":"left","color":"5"},
+		{"id":"b8f69a8b5070ab6e","fromNode":"96ca46800826ad92","fromSide":"right","toNode":"e5e83def9ce57f08","toSide":"left","color":"3","label":"Taxis, \nAmbulacias,\nT. Escolar y menores"}
 	]
 }

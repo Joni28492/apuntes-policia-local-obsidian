@@ -28,52 +28,27 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Trafico/Transporte/Transporte menores.canvas",
+                "file": "Coordinacion policias locales.canvas",
                 "viewState": {
-                  "x": 92.29125643539004,
-                  "y": 79.59521731706965,
-                  "zoom": -0.543145109477094
+                  "x": -847.0018995451672,
+                  "y": -450.49565446426084,
+                  "zoom": -1.1762946499909852
                 }
               }
             }
           },
           {
-            "id": "133feebc2fba6420",
+            "id": "3f4ff7effdd984a3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/numeracions_normativas_trafico.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "426dfd9559d63447",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8920f9d42e289f80",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Trafico/Transporte/Transporte.canvas",
-                "viewState": {
-                  "x": -781.4922834769965,
-                  "y": -896.7456883550861,
-                  "zoom": -0.42062297726557374
-                }
+                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5,
-    "collapsed": true
+    "width": 441.5
   },
   "right": {
     "id": "43db7e5b829785cc",
@@ -140,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md"
               }
             }
           }
@@ -207,28 +181,31 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "426dfd9559d63447",
+  "active": "3f4ff7effdd984a3",
   "lastOpenFiles": [
+    "Coordinacion policias locales.canvas",
+    "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md",
+    "Normativa autonomica/Lepar/Lepar.canvas",
+    "Normativa autonomica/Lepar/Decretos/horarios-90-2004.excalidraw.md",
+    "Trafico/ITV/ITV.canvas",
+    "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md",
+    "Normativa autonomica.canvas",
+    "Trafico/Transporte/Transporte menores.canvas",
+    "CP_Tema_4.canvas",
+    "Trafico/Transporte/Transporte.canvas",
     "Excalidraw/numeracions_normativas_trafico.excalidraw.md",
     "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md",
-    "Trafico/ITV/ITV.canvas",
-    "Trafico/Transporte/Transporte menores.canvas",
     "Trafico/Transporte/Mercancias_perecederas.excalidraw.md",
-    "CP_Tema_4.canvas",
     "CP_Tema_3.canvas",
-    "Trafico/Transporte/Transporte.canvas",
     "Trafico/Transporte/Transporte y movilidad sostenible.canvas",
     "Trafico/Transporte/Transporte Mercancias Perecederas.canvas",
     "Excalidraw/contencioso_administrativo.excalidraw.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_171.md",
     "Tema_7_el_acto_administrativo.canvas",
-    "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md",
     "Excalidraw/Penas.excalidraw.md",
     "Untitled.md",
     "Zona de pruebas.md",
     "Untitled Kanban.md",
-    "Tema_6_derecho_administrativo.canvas",
-    "LPA-Administrativo-video opositatest.canvas",
     "MIX preguntas.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_169.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo I/CP_Art_167.md",
@@ -242,9 +219,6 @@
     "Codigo penal/Libro II/Titulo III/CP_Art_147_lesiones.md",
     "Codigo penal/Libro II/Titulo I/CP_Art_139_Asesinato.md",
     "Codigo penal/Libro II/Titulo I/CP_Art_138_Homicidio.md",
-    "Codigo penal/Libro II/Titulo VII/CP_Art_174.md",
-    "Codigo penal/Libro II/Titulo VII/CP_Art_177.md",
-    "Codigo penal/Libro II/Titulo VII/CP_Art_176.md",
     "src/1570392041.jpg",
     "src/3d6b5292834501be92afa78f6b1c3fa7000050.png",
     "src/Badge_of_the_National_Police_Corps_of_Spain.svg.png",
