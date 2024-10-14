@@ -8,42 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ee3bd5da24b031e",
+            "id": "1b2b63a27266752d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Trafico/ITV/ITV.canvas",
+                "file": "CP_Tema_4.canvas",
                 "viewState": {
-                  "x": -265.0934012006741,
-                  "y": 230.92568435398948,
-                  "zoom": -0.15235117291651779
+                  "x": 2395.9772737239914,
+                  "y": 45.70297522167999,
+                  "zoom": -0.8770806949756706
                 }
               }
             }
           },
           {
-            "id": "7c4d8b53c601c425",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Coordinacion policias locales.canvas",
-                "viewState": {
-                  "x": -847.0018995451672,
-                  "y": -450.49565446426084,
-                  "zoom": -1.1762946499909852
-                }
-              }
-            }
-          },
-          {
-            "id": "3f4ff7effdd984a3",
+            "id": "d0139a63d84dccc7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md"
+                "file": "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0ee8c8d671853768",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md"
               }
             }
           }
@@ -114,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md",
+                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md",
+                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md"
+                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md"
               }
             }
           }
@@ -181,29 +176,32 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "3f4ff7effdd984a3",
+  "active": "e088ce29afc96e31",
   "lastOpenFiles": [
+    "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md",
+    "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md",
+    "Excalidraw/CP_Tema_6_salud_publica_drogas.excalidraw.md",
+    "CP_Tema_4.canvas",
+    "Protecion Civil/Proteccion Civil.canvas",
+    "Protecion Civil/Proteccion Civil.md",
+    "Excalidraw/maniobras.excalidraw.md",
+    "Excalidraw/Tipos_procedimientos_tema_2CP.excalidraw.md",
+    "Excalidraw/Delitos_admin_publica.excalidraw.md",
+    "Trafico/ITV/ITV.canvas",
     "Coordinacion policias locales.canvas",
-    "Excalidraw/Drawing 2024-10-09 16.34.19.excalidraw.md",
+    "Excalidraw/contencioso_administrativo.excalidraw.md",
+    "Colectivos de riesgo.md",
     "Normativa autonomica/Lepar/Lepar.canvas",
     "Normativa autonomica/Lepar/Decretos/horarios-90-2004.excalidraw.md",
-    "Trafico/ITV/ITV.canvas",
-    "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md",
     "Normativa autonomica.canvas",
     "Trafico/Transporte/Transporte menores.canvas",
-    "CP_Tema_4.canvas",
     "Trafico/Transporte/Transporte.canvas",
     "Excalidraw/numeracions_normativas_trafico.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-07 12.36.42.excalidraw.md",
     "Trafico/Transporte/Mercancias_perecederas.excalidraw.md",
     "CP_Tema_3.canvas",
     "Trafico/Transporte/Transporte y movilidad sostenible.canvas",
-    "Trafico/Transporte/Transporte Mercancias Perecederas.canvas",
-    "Excalidraw/contencioso_administrativo.excalidraw.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_171.md",
-    "Tema_7_el_acto_administrativo.canvas",
     "Excalidraw/Penas.excalidraw.md",
-    "Untitled.md",
     "Zona de pruebas.md",
     "Untitled Kanban.md",
     "MIX preguntas.md",
@@ -216,9 +214,6 @@
     "Codigo penal/Libro II/Titulo III/CP_Art_153.md",
     "Codigo penal/Libro II/Titulo III/CP_Art_150_miembro_NO_principal.md",
     "Codigo penal/Libro II/Titulo III/CP_Art_149_miembro_principal.md",
-    "Codigo penal/Libro II/Titulo III/CP_Art_147_lesiones.md",
-    "Codigo penal/Libro II/Titulo I/CP_Art_139_Asesinato.md",
-    "Codigo penal/Libro II/Titulo I/CP_Art_138_Homicidio.md",
     "src/1570392041.jpg",
     "src/3d6b5292834501be92afa78f6b1c3fa7000050.png",
     "src/Badge_of_the_National_Police_Corps_of_Spain.svg.png",
