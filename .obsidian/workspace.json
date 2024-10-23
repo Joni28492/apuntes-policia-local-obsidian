@@ -11,39 +11,32 @@
             "id": "1b2b63a27266752d",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Normativa autonomica/Lepar/Decretos/horarios-90-2004.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "horarios-90-2004.excalidraw"
+            }
+          },
+          {
+            "id": "782d10aecfa58e25",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "CP_Tema_4.canvas",
+                "file": "Tema_7_el_acto_administrativo.canvas",
                 "viewState": {
-                  "x": 2395.9772737239914,
-                  "y": 45.70297522167999,
-                  "zoom": -0.8770806949756706
+                  "x": 1191.8330606553398,
+                  "y": -320.0600359469763,
+                  "zoom": -0.4044517411394221
                 }
-              }
-            }
-          },
-          {
-            "id": "d0139a63d84dccc7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0ee8c8d671853768",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md"
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tema_7_el_acto_administrativo"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -72,13 +67,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "horari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -86,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md",
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Definiciones trafico - Anexo 1"
             }
           },
           {
@@ -126,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md",
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Definiciones trafico - Anexo 1"
             }
           },
           {
@@ -140,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -149,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md"
-              }
+                "file": "Trafico/LSV/Definiciones trafico - Anexo 1.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Definiciones trafico - Anexo 1"
             }
           }
         ]
@@ -176,44 +183,44 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "e088ce29afc96e31",
+  "active": "1b2b63a27266752d",
   "lastOpenFiles": [
+    "Excalidraw/Tipos_procedimientos_tema_2CP.excalidraw.md",
     "Excalidraw/Tema_8_Recursos_Administrativos.excalidraw.md",
+    "Excalidraw/Penas.excalidraw.md",
+    "Excalidraw/numeracions_normativas_trafico.excalidraw.md",
+    "Excalidraw/maniobras.excalidraw.md",
+    "Excalidraw/delitos_contra_patrimoni.excalidraw.md",
+    "Excalidraw/Delitos_admin_publica.excalidraw.md",
     "Excalidraw/CP_Tema_9_Delitos_Contra_Admin_justicia.excalidraw.md",
     "Excalidraw/CP_Tema_6_salud_publica_drogas.excalidraw.md",
-    "CP_Tema_4.canvas",
-    "Protecion Civil/Proteccion Civil.canvas",
-    "Protecion Civil/Proteccion Civil.md",
-    "Excalidraw/maniobras.excalidraw.md",
-    "Excalidraw/Tipos_procedimientos_tema_2CP.excalidraw.md",
-    "Excalidraw/Delitos_admin_publica.excalidraw.md",
-    "Trafico/ITV/ITV.canvas",
-    "Coordinacion policias locales.canvas",
     "Excalidraw/contencioso_administrativo.excalidraw.md",
+    "Administrativo/acto administrativo/acto administrativo.md",
+    "Trafico/LSV/Definiciones trafico - Anexo 1.canvas",
+    "Tema_7_el_acto_administrativo.canvas",
+    "Trafico/ITV/ITV.canvas",
     "Colectivos de riesgo.md",
-    "Normativa autonomica/Lepar/Lepar.canvas",
-    "Normativa autonomica/Lepar/Decretos/horarios-90-2004.excalidraw.md",
+    "Haciendas locales.md",
+    "Tema_6_derecho_administrativo.canvas",
+    "Constitucion/constitucion.canvas",
+    "Ley bases 7-85.canvas",
+    "Preguntas merino.canvas",
+    "Estatuto autonomia 7-81.canvas",
     "Normativa autonomica.canvas",
-    "Trafico/Transporte/Transporte menores.canvas",
-    "Trafico/Transporte/Transporte.canvas",
-    "Excalidraw/numeracions_normativas_trafico.excalidraw.md",
-    "Trafico/Transporte/Mercancias_perecederas.excalidraw.md",
     "CP_Tema_3.canvas",
-    "Trafico/Transporte/Transporte y movilidad sostenible.canvas",
+    "Administrativo/Administrativo.md",
+    "Administrativo/Procedimiento administrativo/Procedimiento administrativo 39-2015.md",
+    "src/Pasted image 20241015092623.png",
+    "Protecion Civil/Proteccion Civil.md",
+    "Normativa autonomica/Lepar/Decretos/horarios-90-2004.excalidraw.md",
+    "Trafico/Transporte/Mercancias_perecederas.excalidraw.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_171.md",
-    "Excalidraw/Penas.excalidraw.md",
     "Zona de pruebas.md",
     "Untitled Kanban.md",
     "MIX preguntas.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo II/CP_Art_169.md",
     "Codigo penal/Libro II/Titulo VI/Capitulo I/CP_Art_167.md",
     "Codigo penal/Libro II/Titulo III/CP_Art_152_imprudencias.md",
-    "Codigo penal/Libro II/Titulo VII/CP_Art_173.md",
-    "Codigo penal/Libro II/Titulo III/CP_Art_154_riña_tumultuaria.md",
-    "Codigo penal/Libro II/Titulo VII/Titulo VII - De las torturas y otros delitos contra la integridad moral.md",
-    "Codigo penal/Libro II/Titulo III/CP_Art_153.md",
-    "Codigo penal/Libro II/Titulo III/CP_Art_150_miembro_NO_principal.md",
-    "Codigo penal/Libro II/Titulo III/CP_Art_149_miembro_principal.md",
     "src/1570392041.jpg",
     "src/3d6b5292834501be92afa78f6b1c3fa7000050.png",
     "src/Badge_of_the_National_Police_Corps_of_Spain.svg.png",
@@ -232,7 +239,6 @@
     "Codigo penal/Libro II/Titulo XX/Capitulo IV",
     "Codigo penal/Libro II/Titulo XX/Capitulo III",
     "Apps/obsidian-test/src/typescript.svg",
-    "Apps/obsidian-test/public/vite.svg",
-    "Excalidraw/src/Pasted Image 20240312125857_577.png"
+    "Apps/obsidian-test/public/vite.svg"
   ]
 }

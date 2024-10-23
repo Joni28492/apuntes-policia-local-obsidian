@@ -9,6 +9,7 @@
 		{"id":"d5395bf7669cfdbe","type":"text","text":"Mayoria Absoluta del congreso","x":-281,"y":-179,"width":250,"height":60,"color":"2"},
 		{"id":"4f0825ce4557c537","type":"text","text":"## Cuestion de confianza\n ","x":-715,"y":-920,"width":365,"height":80},
 		{"id":"00682e131e362a52","type":"text","text":"Mayoria simple Congreso de los diputados","x":-601,"y":-718,"width":250,"height":60,"color":"4"},
+		{"id":"52cadec2bf034e61","type":"text","text":"### consejo general poder judicial\n","x":-580,"y":560,"width":384,"height":60},
 		{"id":"4a7a7f1f68d328fa","type":"text","text":"Organizacion territorial del Estado","x":328,"y":180,"width":250,"height":60},
 		{"id":"e2c00b98e2bb1efb","type":"text","text":"### Tribunal Constitucional","x":578,"y":-713,"width":365,"height":50},
 		{"id":"3323e7e89fd0f893","type":"text","text":"L. O. 6/1985 de 1 Julio, del poder Judicial ( L.O.P.J. ) → Art 24 CE (Tutela Judicial efectiva)","x":408,"y":-511,"width":312,"height":111,"color":"1"},
@@ -16,15 +17,14 @@
 		{"id":"e0ddec67d9774034","type":"text","text":"Composicion:\n4  a propuesta del congreso mayoria 3/5\n4 a propuesta del senado mayoria 3/5\n2 a propuesta del gobierno\n2 a propuesta del consejo general del poder judicial","x":1060,"y":-813,"width":469,"height":160,"color":"3"},
 		{"id":"811044b96b0f9b9c","type":"text","text":"presidente:\n- nombrado por el rey\n- de entre sus miembros\n","x":1660,"y":-747,"width":302,"height":118,"color":"3"},
 		{"id":"13a0a4395f72eba7","type":"text","text":"- Recurso inconstitucionalidad\n- recurso de amparo\n- conflictos competencias:\n\t- Estado y CCAA\n\t- entre CCAASS\n- Demas materias que le atribuya la constitucion o las Leyes ORganicas","x":408,"y":-1200,"width":376,"height":240},
-		{"id":"dc4718bb96946fbe","type":"text","text":"Recurso inconstitucionalidad:\n- Presidente de gobierno\n- defensor del pueblo\n- 50 diputados\n- 50 senadores\n- Organos colegiados ejecutivos de las CCAA\n- asambleas de las CCAA","x":223,"y":-1640,"width":310,"height":280},
-		{"id":"edb24899a40a7169","type":"text","text":"recurso de amparo:\n- Persona natural o juridica legitima que invoque un interes legitimo\n- defensor del pueblo\n- ministerio fiscal","x":703,"y":-1640,"width":280,"height":200},
+		{"id":"dc4718bb96946fbe","type":"text","text":"Recurso inconstitucionalidad:\n- Presidente de gobierno\n- defensor del pueblo\n- 50 diputados\n- 50 senadores\n- Organos colegiados ejecutivos de las CCAA\n- asambleas de las CCAA","x":223,"y":-1640,"width":310,"height":280,"color":"3"},
+		{"id":"edb24899a40a7169","type":"text","text":"recurso de amparo:\n- Persona natural o juridica legitima que invoque un interes legitimo\n- defensor del pueblo\n- ministerio fiscal","x":703,"y":-1640,"width":280,"height":200,"color":"2"},
 		{"id":"08e47b0f85269a0e","type":"text","text":"Leyes Organicas:\n- derechos fundamentales y libertades publicas\n- regimen electoral general\n- estatutos de autonomia\n- las demas previstas en la constitucion\nAprobacion, modificacion y derogacion:\n**Mayoria Absoluta**\n","x":986,"y":220,"width":366,"height":308,"color":"2"},
 		{"id":"5e27eab03fa6bc10","type":"text","text":"## Elaboracion de las leyes\n","x":1060,"y":38,"width":359,"height":50},
 		{"id":"8b5850d8d3dc5889","type":"text","text":"Delegacion legislativa:\n- al gobierno\n- de forma expresa\n- materia concreta\n- con fijacion de plazo","x":1634,"y":0,"width":250,"height":172},
 		{"id":"4563b96fd54480e0","type":"text","text":"Texto articulado","x":2256,"y":-60,"width":250,"height":60,"color":"5"},
 		{"id":"ebe50ea0b906c650","type":"text","text":"texto refundido","x":2256,"y":172,"width":250,"height":67,"color":"3"},
-		{"id":"312008387219e9e0","type":"text","text":"## de las camaras\n","x":420,"y":680,"width":250,"height":60},
-		{"id":"52cadec2bf034e61","type":"text","text":"### consejo general poder judicial\n","x":-580,"y":560,"width":384,"height":60}
+		{"id":"312008387219e9e0","type":"text","text":"## de las camaras\n","x":420,"y":680,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"d6e800a942094863","fromNode":"e2c00b98e2bb1efb","fromSide":"bottom","toNode":"3323e7e89fd0f893","toSide":"top"},

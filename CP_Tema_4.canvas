@@ -27,7 +27,7 @@
 		{"id":"eb70e2253ab5c406","fromNode":"53fa98a99b33336c","fromSide":"bottom","toNode":"06217887612e4554","toSide":"top"},
 		{"id":"0ea196c3bf1d2834","fromNode":"409caf091307b388","fromSide":"right","toNode":"cf68200c95bb44c9","toSide":"left"},
 		{"id":"9f982c362faa0077","fromNode":"cf68200c95bb44c9","fromSide":"right","toNode":"537f61de26fcfe15","toSide":"left"},
-		{"id":"c35ae37fffc698e6","fromNode":"409caf091307b388","fromSide":"right","toNode":"0f81683c0ee3ae07","toSide":"left"},
+		{"id":"c35ae37fffc698e6","fromNode":"409caf091307b388","fromSide":"right","toNode":"0f81683c0ee3ae07","toSide":"left","label":"Violacion"},
 		{"id":"fea5c86511f1cc11","fromNode":"409caf091307b388","fromSide":"right","toNode":"18d16f47b2179cc7","toSide":"left"},
 		{"id":"5aadff73921731dc","fromNode":"d72ba4952c0dffc1","fromSide":"bottom","toNode":"e6ca823b4bd113f4","toSide":"left"},
 		{"id":"ea62d732b826bd88","fromNode":"d72ba4952c0dffc1","fromSide":"bottom","toNode":"363935f5cee105e3","toSide":"top"},
@@ -36,10 +36,10 @@
 		{"id":"2526c70293542a82","fromNode":"e6ca823b4bd113f4","fromSide":"bottom","toNode":"1361a807f9fe7cfa","toSide":"top"},
 		{"id":"70daad41ab1b0be1","fromNode":"363935f5cee105e3","fromSide":"bottom","toNode":"c73d086af8113b4a","toSide":"top"},
 		{"id":"eb7cb0a33bc8a676","fromNode":"c73d086af8113b4a","fromSide":"bottom","toNode":"d76c64e442f88a58","toSide":"top"},
-		{"id":"305454213a44f2c4","fromNode":"ecfb8d52737c912b","fromSide":"top","toNode":"efa7e6c6ec6d2268","toSide":"left"},
-		{"id":"ea5fa24c7bd71b98","fromNode":"ecfb8d52737c912b","fromSide":"right","toNode":"836be2ba3b755b53","toSide":"left"},
+		{"id":"305454213a44f2c4","fromNode":"ecfb8d52737c912b","fromSide":"top","toNode":"efa7e6c6ec6d2268","toSide":"left","label":"Realiza"},
+		{"id":"ea5fa24c7bd71b98","fromNode":"ecfb8d52737c912b","fromSide":"right","toNode":"836be2ba3b755b53","toSide":"left","label":"muestra"},
 		{"id":"078773a1055d589e","fromNode":"98ad13eeb6ef31e0","fromSide":"bottom","toNode":"91d85103f2e67923","toSide":"top"},
-		{"id":"7134b5894790cfdf","fromNode":"ecfb8d52737c912b","fromSide":"bottom","toNode":"98ad13eeb6ef31e0","toSide":"top"},
+		{"id":"7134b5894790cfdf","fromNode":"ecfb8d52737c912b","fromSide":"bottom","toNode":"98ad13eeb6ef31e0","toSide":"top","label":"contacta"},
 		{"id":"29b9b577d4514cdf","fromNode":"efa7e6c6ec6d2268","fromSide":"right","toNode":"29e3d41e02730f29","toSide":"left","color":"#9d5f75"}
 	]
 }
